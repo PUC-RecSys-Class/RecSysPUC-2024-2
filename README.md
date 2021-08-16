@@ -17,7 +17,7 @@ Agosto-Diciembre 2021
 
 **Horario**: Martes y Jueves, Módulo 3 (11:30 a 12:50).
 
-Programa IIC 3633, 2do Semestre 2021: [pdf](http://dparra.sitios.ing.uc.cl/classes/recsys-2019-2/IIC3633Sist%20Recomendadores_v3.pdf).
+Programa IIC 3633, 2do Semestre 2021: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
 
 ### Descripción del Curso
 
@@ -164,7 +164,7 @@ Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanism
 
 Fecha de revisión de blogs: El post de la semana x, tiene fecha de entrega el lunes a las 12pm de la semana x+1. Ejemplo: Las lecturas de la semana 1 (del 10 al 14 de agosto) se entregan a más tardar el lunes 17 de agosto de 2020 a las 8pm.
 
-Cada alumno tendrá un repositorio en github (debe indicarlo en [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSe06lSVzL7cUdFrTfmwDHdW6CFAVKQEnIs5CocOyiNpFmD4PA/viewform)) donde escribirá en markdown sus comentarios respecto de los papers indicados como obligatorios. No es necesario hacer un resumen largo del paper, sino indicar un resumen corto, puntos que pueden abrir discusión, mejoras o controversias: Evaluación inadecuada, parámetros importantes no considerados, potenciales mejoras de los algoritmos, fuentes de datos que podían mejorar los resultados, etc.
+Cada alumno tendrá un repositorio en github (debe indicarlo en [este formulario](#) donde escribirá en markdown sus comentarios respecto de los papers indicados como obligatorios. No es necesario hacer un resumen largo del paper, sino indicar un resumen corto, puntos que pueden abrir discusión, mejoras o controversias: Evaluación inadecuada, parámetros importantes no considerados, potenciales mejoras de los algoritmos, fuentes de datos que podían mejorar los resultados, etc.
 
 Adicionalmente, cada alumno presentará al menos una vez durante el semestre un paper sobre un tópico, con el objetivo de abrir una discusión sobre el tema durante la clase.
 
@@ -174,10 +174,9 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 ## Planificación general (sujeta a actualización)
 
-(actualizada el 8 de octubre de 2020)
+(actualizada el 17 de agosto de 2021)
 
-![Planificacion RecSys 2020](https://user-images.githubusercontent.com/208111/95472551-92871e00-0959-11eb-8725-5fb2fe7842f9.png)
-
+![Planificacion RecSys 2021](#)
 
 
 ## Lecturas por Semana
