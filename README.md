@@ -1,22 +1,23 @@
 # IIC3633 Sistemas Recomendadores
-Agosto-Diciembre 2020
+Agosto-Diciembre 2021
 
 
 ### Equipo Docente e Información Administrativa
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
 
 **Ayudantes**:  
-[Vladimir Araujo](https://vgaraujov.github.io/), Alumno de Doctorado en Ciencia de la Computación PUC Chile.  
-Manuel Cartagena, Alumno de Magister en Ciencia de la Computación PUC Chile.  
-[Andrés Carvallo](https://scholar.google.com/citations?user=DinpmCUAAAAJ&hl=es), Alumno de Doctorado en Ciencia de la Computación PUC Chile.  
-[Francisca Cattan](https://www.linkedin.com/in/franciscacattan/), Alumna de Doctorado en Ciencia de la Computación PUC Chile.  
-[Andrés Villa](https://www.linkedin.com/in/andres-felipe-villa-ojeda-b3132811b), Alumno de Doctorado en Ciencia de la Computación PUC Chile.  
+[Vladimir Araujo](https://vgaraujov.github.io/), Estudiante de Doctorado en Ciencia de la Computación PUC Chile.  
+[Andrés Carvallo](https://scholar.google.com/citations?user=DinpmCUAAAAJ&hl=es), Estudiante de Doctorado en Ciencia de la Computación PUC Chile.  
+[Francisca Cattan](https://www.linkedin.com/in/franciscacattan/), Estudiante de Doctorado en Ciencia de la Computación PUC Chile.  
+[Alvaro Labarca](#), Estudiante de Magister, en Ciencia de la Computación PUC Chile.  
+[Jorge Pérez Facuse](#), Estudiante de Magister, en Ciencia de la Computación PUC Chile.  
+ 
 
 **Institución**: Pontificia Universidad Católica de Chile
 
 **Horario**: Martes y Jueves, Módulo 3 (11:30 a 12:50).
 
-Programa IIC 3633, 2do Semestre 2020: [pdf](http://dparra.sitios.ing.uc.cl/classes/recsys-2019-2/IIC3633Sist%20Recomendadores_v3.pdf).
+Programa IIC 3633, 2do Semestre 2021: [pdf](http://dparra.sitios.ing.uc.cl/classes/recsys-2019-2/IIC3633Sist%20Recomendadores_v3.pdf).
 
 ### Descripción del Curso
 
@@ -35,24 +36,26 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 
 | Semana  | Tema             | link slide(s) | link video | comentario(s) |
 |:--------|:-----------------|:-------------:|:----------:|:-------------:|
-| 1       | Introducción                                          | x    | [video](https://drive.google.com/file/d/1lhHoO0JN5PI-6tc9samHx7ui7iB-ycV-/view?usp=sharing)    |                   |
-| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | [video](https://drive.google.com/file/d/1PrlxIa_qx5n4s-OylzXyMQeuErqCl_Py/view?usp=sharing)    |                   |
-| 1       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | [video](https://drive.google.com/file/d/15gwdIm7MlVhBltB1vjOhsKW6n7ezqw0f/view?usp=sharing)  |                   |
-| 1       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-SlopeOne.pdf)    | [video](https://drive.google.com/file/d/15gwdIm7MlVhBltB1vjOhsKW6n7ezqw0f/view?usp=sharing)   |                   |
-| 2       | Item-based FC                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s2_c1-IBCF.pdf)    | [video](https://drive.google.com/file/d/15gwdIm7MlVhBltB1vjOhsKW6n7ezqw0f/view?usp=sharing)    |                   |
-| 2       | Factorización Matricial: FunkSVD                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s2_c2-Factorizacion_matricial.pdf)    | [video](https://drive.google.com/file/d/1Wi5O1VKrx72Ux0LdhxcAAL0FXSGV7FVQ/view)    |                   |
-| 3       | Implicit Feedback CF                                  | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s3_c1-Implicit-feedback.pdf)    | [video1](https://drive.google.com/file/d/1hAxJpXX6VMgEcTQTfUtHNu-7ttDYTG9o/view?usp=sharing) [video2](https://drive.google.com/file/d/1EH59esO_bnd6t3YJm-gw6PhM0mHbqRqd/view?usp=sharing)   |                   |
-| 3       | Bayesian Personalized Ranking (BPR)                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s3_c2-BPR.pdf)    | [video](https://drive.google.com/file/d/1VV_s8c7b-ftCcg68q0oRRBh00T4JypPc/view?usp=sharing)    |                   |
-| 4       | Evaluación: metricas de error y ranking               | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s4_c1-metricas.pdf)    | [video](https://drive.google.com/file/d/1wFQc9h1pdaJH1YbbUgbw8Wb56m1mHvZf/view?usp=sharing)    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
-| 4       | Evaluación II: Cobertura, diversidad, novedad                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s4_c1-metricas.pdf)    | [video](https://drive.google.com/file/d/1TPjmn7FWK2C4G3rg7UYY4NGG2bLJyTOy/view?usp=sharing)     |                   |
-| 4       | Evaluación III: Tests estadísticos                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s4_c2-tests_estadisticos.pdf)     | [video](https://drive.google.com/file/d/1jis_iIjFFWk7NcggeMn26rLAhrWuRK5h/view?usp=sharing)    |                   |
-| 5       | Recomendación basada en contenido 1                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s5_c1-content.pdf)    | [video](https://drive.google.com/file/d/1HiBLWh0l-aRq4ldVjk3Z0bf56gwQP2wp/view?usp=sharing)    |                   |
-| 5       | Recomendación basada en contenido 2                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s5_c2-content.pdf)    | [video](https://drive.google.com/file/d/1cUR-bApLvOlVYRMAdGzEqeatP44jol0N/view?usp=sharing)    |                   |
-| 6       | Recomendación híbrida                                 | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s6_c1-hibridos.pdf)    | [video](https://drive.google.com/file/d/1aUNYNli4l4xk_hGRB7v-PaRr0xtJWQau/view?usp=sharing)    |                   |
-| 6       | Recomendación por ensambles                           | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s6_c2_p3-blending_ensemble.pdf)    | [video](https://drive.google.com/file/d/1o5cL5JspHI8QizFeMT8_9HQKqNT2rmqm/view?usp=sharing)    |                   |
-| 6       | Recomendación basada en contexto                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s6_c1-contexto.pdf)    | [video1](https://drive.google.com/file/d/1fC3Ypg5aF8Be_8b7ZpPFqwVdtJS2kwzm/view?usp=sharing) [video2](https://drive.google.com/file/d/10r_6DzrKflF8sVzgZ1mU8xb8mJC2BcgO/view?usp=sharing)   |                   |
-| 6       | Máquinas de Factorización                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s6_c2_p2-FMachines.pdf)    | [video](https://drive.google.com/file/d/111IK4ZIE-bqiNWmYLyafQoS0kthETLUr/view?usp=sharing)    |                   |
+| 1       | Introducción                                          | x    | [video](#)    |                   |
+| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | [video](#)    |                   |
+| 1       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | [video](#)  |                   |
+| 1       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-SlopeOne.pdf)    | [video](#)   |                   |
+| 2       | Item-based FC                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s2_c1-IBCF.pdf)    | [video](#)    |                   |
+| 2       | Factorización Matricial: FunkSVD                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s2_c2-Factorizacion_matricial.pdf)    | [video](#)    |                   |
+| 3       | Implicit Feedback CF                                  | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s3_c1-Implicit-feedback.pdf)    | [video1](#) [video2](#)   |                   |
+| 3       | Bayesian Personalized Ranking (BPR)                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s3_c2-BPR.pdf)    | [video](#)    |                   |
+| 4       | Evaluación: metricas de error y ranking               | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s4_c1-metricas.pdf)    | [video](#)    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
+| 4       | Evaluación II: Cobertura, diversidad, novedad                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s4_c1-metricas.pdf)    | [video](#)     |                   |
+| 4       | Evaluación III: Tests estadísticos                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s4_c2-tests_estadisticos.pdf)     | [video](#)    |                   |
+| 5       | Recomendación basada en contenido 1                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s5_c1-content.pdf)    | [video](#)    |                   |
+| 5       | Recomendación basada en contenido 2                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s5_c2-content.pdf)    | [video](#)    |                   |
+| 6       | Recomendación híbrida                                 | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c1-hibridos.pdf)    | [video](https://drive.google.com/file/d/1aUNYNli4l4xk_hGRB7v-PaRr0xtJWQau/view?usp=sharing)    |                   |
+| 6       | Recomendación por ensambles                           | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c2_p3-blending_ensemble.pdf)    | [video](https://drive.google.com/file/d/1o5cL5JspHI8QizFeMT8_9HQKqNT2rmqm/view?usp=sharing)    |                   |
+| 6       | Recomendación basada en contexto                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c1-contexto.pdf)    | [video1](https://drive.google.com/file/d/1fC3Ypg5aF8Be_8b7ZpPFqwVdtJS2kwzm/view?usp=sharing) [video2](https://drive.google.com/file/d/10r_6DzrKflF8sVzgZ1mU8xb8mJC2BcgO/view?usp=sharing)   |                   |
+| 6       | Máquinas de Factorización                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c2_p2-FMachines.pdf)    | [video](https://drive.google.com/file/d/111IK4ZIE-bqiNWmYLyafQoS0kthETLUr/view?usp=sharing)    |                   |
 | 7       | Semana Break                             | Break    | Break    |                   |
+
+<!--
 | 8       | [Ideas de Proyecto](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/tree/master/proyecto) |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/Denis-IdeasProyectosFinales-2020.pdf)        |   [video1](https://drive.google.com/file/d/1o8TFNtax9cYiIrVFdnxGxJ3P3fItIFwA/view?usp=sharing) [video2](https://drive.google.com/file/d/1NjC6iw9LRDmaKGh-rSAHVm_iolcsvMy1/view?usp=sharing)      |                   |
 | 9       | Evaluación centrada en usuarios                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s9_c1_usercentric.pdf)    | [video1](https://drive.google.com/file/d/1N6KBXkGN6Gh409mxkkD8KFGLs8Bvntz7/view?usp=sharing)  [video2](https://drive.google.com/file/d/1NlALFJzBcLv1SZGFSiOgjFoINlKzkdN4/view?usp=sharing)  |                   |
 | 9       | Sistemas Justos, Explicables y Transparentes                                      |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s9_c2_FATv2.pdf)       |  [video](https://drive.google.com/file/d/1kgJHc3DoKem0VW1gKvm2RaweGJJF3uPv/view?usp=sharing)        |                   |
@@ -61,7 +64,7 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | 11       | Aprendizaje Profundo para RecSys (Intro y FC)                                      |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s11_c1_deep_learning.pdf)       |  [video](https://drive.google.com/file/d/1-T_vxETMbzqk2FNJzUPGaPJtIpfe-R9g/view?usp=sharing)        |                   |
 | 11       | Aprendizaje Profundo para RecSys (Secuencias)                                    |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s11_c2_secu_deep_learning.pdf)       |  [video](https://drive.google.com/file/d/1krx9jda3TC8xyIn0n5FGuR-xgp-zezev/view?usp=sharing)        |                   |
 | 12       | Aprendizaje Profundo para RecSys (Imágenes, Transformer, Grafos)                                    |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s12_c1_deep_learning_s.pdf)       |  [video1](https://drive.google.com/file/d/11aUkSvabuHZMevDd4yP0dBTrc3_2eNtV/view?usp=sharing)  [video2](https://drive.google.com/file/d/1LJ6jI3gHPqS45Olv-Iu29W5DunO8ZbF6/view?usp=sharing)      |                   |
-| 12       | 10 problemas en Sistemas de Recomendación                                     |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s12_c2_10bigproblems-recsys-small.pdf)       |  [video](https://drive.google.com/file/d/1DtyzGOfMZY8UE223SMM2ROczH_qHhkNc/view?usp=sharing)        |                   |
+| 12       | 10 problemas en Sistemas de Recomendación                                     |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s12_c2_10bigproblems-recsys-small.pdf)       |  [video](https://drive.google.com/file/d/1DtyzGOfMZY8UE223SMM2ROczH_qHhkNc/view?usp=sharing)        | -->                  |
 
 ### Parte II del curso: seminario
 
@@ -72,6 +75,7 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 
 | Semana  | Tema             | link slide(s) | link video | conferencia |
 |:--------|:-----------------|:-------------:|:----------:|:-----------|
+<!--
 | 13       | CTRec: A Long-Short Demands Evolution Model for Continuous-Time Recommendation    | [slides](https://drive.google.com/file/d/1Ys-8asyvEYR1Fr_lbY3D_pJkU88f1jHs/view?usp=sharing)    | [video](https://drive.google.com/file/d/12wMh58M3ogqaWdmfKJpXDsZRyTOba9r1/view?usp=sharing)    |  [SIGIR 2019](https://dl.acm.org/doi/abs/10.1145/3331184.3331199)                  |
 | 13       | Collaborative Similarity Embedding for Recommender Systems         | [slides](https://drive.google.com/file/d/1QoreUxFm_Qu5hHvzywPsj02pslXvefkK/view?usp=sharing)    | [video](https://drive.google.com/file/d/15ewTouX8aLn2ib3LEt_2s226zd2VZyi0/view?usp=sharing)    | [WWW 2019](https://dl.acm.org/doi/abs/10.1145/3308558.3313493) |
 | 13       | Personalized re-ranking for recommendation         | [slides](https://drive.google.com/file/d/1Xnt_NpqR_7CHIBvhkB-J5MFOpxwSiAwR/view?usp=sharing)    | [video](https://drive.google.com/file/d/155ljkGXASvx-AwWN7STHL4xjWoUEYOMP/view?usp=sharing)    | [RecSys 2019](https://dl.acm.org/doi/abs/10.1145/3298689.3347000 ) |
@@ -94,22 +98,27 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 | 16       | KRED: Knowledge-aware Document Representation for News Recommendations         | [slides](https://drive.google.com/file/d/1ZxCrNNPK500qDYOsovfxHw1IhlIihCjJ/view?usp=sharing)    | [video](https://drive.google.com/file/d/1mlqZgWTZ-b-7Ca0r--QuEstc6ylUCzYD/view?usp=sharing)    | [RecSys 2020](https://doi.org/10.1145/3383313.3412237) |
 | 16       | Improving Relevance Prediction with Transfer Learning in Large-scale Retrieval Systems         | [slides](https://drive.google.com/file/d/1_-EwRThH0wqdreZItcoF4Hz25aEJhnEl/view?usp=sharing)    | [video](https://drive.google.com/file/d/1ErySt516e6BllC0kqc_3MHPGvpdoswLW/view?usp=sharing)    | [Workshop ICML 2019](https://openreview.net/pdf?id=SJxPVcSonN) |
 | 16       | BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer         | [slides](https://drive.google.com/file/d/1LVFYEIK1ulzQ0pX3oDk0lcfMguR3QPaw/view?usp=sharing)    | [video](https://drive.google.com/file/d/1ILaajKL1vPPBXm7XkcfOA-xNUAh2n3Ci/view?usp=sharing)    | [CIKM 2019](https://doi.org/10.1145/3357384.3357895) |
+-->
 
 ### Proyectos finales
 
-L@s estudiantes trabajaron en grupo sobre proyectos finales de curso, produciendo un poster, paper y repositorio con código para cada uno:
+L@s estudiantes trabajan en grupo sobre proyectos finales de curso, produciendo un poster, paper y repositorio con código para cada uno:
 
-Imagen de la sesión de posters en gather.town del 15 de diciembre de 2020.
+<!-- Imagen de la sesión de posters en gather.town del 15 de diciembre de 2020. 
 ![iic3633-2020-2-posters](https://user-images.githubusercontent.com/208111/102280274-9a3fe180-3f0b-11eb-80ba-a5975227984a.png)
+-->
 
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
 
+Los siguientes son ejemplos del 2020, se actualizará con información del 2021.
 | Grupo | Proyecto             | Poster | Paper | 
 |:------|:---------------------|:------:|:-----:|
 | 1      | Recomendación a conjuntos de usuarios en grupos heterogeneos <br/> Cartagena, Huerfano, Toscano | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N2-cartegana_huerfano_toscano.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Cartagena%20et%20al.pdf)    | 
 | 2      | Personality bias in music recommendation:Beyond accuracy Objectives <br/> Valencia, Gonzalez | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N3-Valencia-Gonz%C3%A1lez.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Valencia%20et%20al.pdf)    |
 | 3      | Attack learning: a method using GANs  <br/> Castro, Casassus  | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N4_castro_casassus.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Castro%20et%20al.pdf)    |
+
+<!--
 | 4      | Metrica Beyond Accuracy: Personal <br/> Labarca, Fuentes | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N5-Labarca_Fuentes.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Fuentes%20et%20al.pdf)    |
 | 5      | Sequential Recommenders for MeLiDataChallenge 2020 <br/> Aguilera, Everke   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N6-Aguilera_Everke.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Everke%20et%20al.pdf)    |
 | 6      | Exploración de recomendadores híbridos para música <br/> Suarez, Carreño, Alipanah   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N7-suarez_carreno_alipanah.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Alipanah%20et%20al.pdf)    |
@@ -128,7 +137,7 @@ Imagen de la sesión de posters en gather.town del 15 de diciembre de 2020.
 | 19      | RecGAN as anime recommender systems  <br/> Codoceo, Escudero, Torres   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A5-codoceo_escudero_torres.pptx.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Codoceo%20et%20al.pdf)    |
 | 20      | Sistema Recomendador de Lecciones Aprendidas en Cursos Capstone  <br/> Contreras, Molina, Stambuk   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A6-Contreras_Molina_Stambuk.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Contreras%20et%20al.pdf)    |
 | 21      | Finding Similar Users with Recommender Systems  <br/> Ovalle, Valdes   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A7-ovalle_valdes.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Valdes%20et%20al.pdf)    |
-
+-->
 
 **MES 1** En las primeras semanas nos enfocaremos en métodos básicos para hacer recomendación usando y prediciendo ratings (filtrado colaborativo User-based & item-based, slope-one). Luego veremos métodos de factorización matricial para ratings y para feedback implícito. En la 3ra semana veremos formas adicionales de evaluar más alla de la métricas de error de predicción de rating (MAE, MSE, RMSE) e incorporaremos métricas para evaluar listas de ítems (precision, recall, MAP, P@n, nDCG). Veremos métodos basados en contenido y sistemas híbridos.
 
@@ -175,25 +184,23 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 ### Semana 1:  
 
 **Obligatorias**  
- * Sarwar, B., Karypis, G., Konstan, J., & Riedl, J. (2001). Item-based collaborative filtering recommendation algorithms. In Proceedings of the 10th international conference on World Wide Web (pp. 285-295).
-
- * [Post original FunkSVD](https://sifter.org/~simon/journal/20061211.html)  
+* Schafer, J. B., Frankowski, D., Herlocker, J., & Sen, S. (2007). Collaborative filtering recommender systems. In The adaptive web (pp. 291-324). Springer Berlin Heidelberg. [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.4520&rep=rep1&type=pdf)
 
 **Sugeridas**
-
-* Schafer, J. B., Frankowski, D., Herlocker, J., & Sen, S. (2007). Collaborative filtering recommender systems. In The adaptive web (pp. 291-324). Springer Berlin Heidelberg.  
+* Sarwar, B., Karypis, G., Konstan, J., & Riedl, J. (2001). Item-based collaborative filtering recommendation algorithms. In Proceedings of the 10th international conference on World Wide Web (pp. 285-295).
+* [Post original FunkSVD](https://sifter.org/~simon/journal/20061211.html)  
 * Lemire, D., & Maclachlan, A. (2005). Slope One Predictors for Online Rating-Based Collaborative Filtering. In SDM (Vol. 5, pp. 1-5).
 
 ### Semana 2:
 
 **Obligatorias**  
 * Hu, Y., Koren, Y., & Volinsky, C. (2008). Collaborative filtering for implicit feedback datasets. In Data Mining, 2008. ICDM’08. Eighth IEEE International Conference on (pp. 263-272). IEEE.  
-* Rendle, S., Freudenthaler, C., Gantner, Z., & Schmidt-Thieme, L. (2009). BPR: Bayesian personalized ranking from implicit feedback. In Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence (pp. 452-461). AUAI Press.
 
 **Sugeridas**  
-* Jannach, D., Lerche, L., & Zanker, M. (2018). Recommending based on implicit feedback. In Social Information Access (pp. 510-569). Springer, Cham.
 * Takács, G., Pilászy, I., Németh, B., & Tikk, D. (2009). Scalable collaborative filtering approaches for large recommender systems. Journal of machine learning research, 10(Mar), 623-656.  
+* Rendle, S., Freudenthaler, C., Gantner, Z., & Schmidt-Thieme, L. (2009). BPR: Bayesian personalized ranking from implicit feedback. In Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence (pp. 452-461). AUAI Press.
 * Pan, R., Zhou, Y., Cao, B., Liu, N. N., Lukose, R., Scholz, M., & Yang, Q. (2008). One-class collaborative filtering. In 2008 Eighth IEEE International Conference on Data Mining (pp. 502-511). IEEE. En este artículo aparecen la derivación y reglas de actualización de los parámetros así como las nociones de AMAN y AMAU.
+* Jannach, D., Lerche, L., & Zanker, M. (2018). Recommending based on implicit feedback. In Social Information Access (pp. 510-569). Springer, Cham.
 * Srebro, N., & Jaakkola, T. (2003). Weighted low-rank approximations. In Proceedings of the 20th International Conference on Machine Learning (ICML-03) (pp. 720-727). Artículo citado por Pan et al. (2008) indicando detalles de la versión no regularizada que inspira OCCF.
 * El siguiente paper es opcional, pero permite entender cómo se deriva <a href="https://www.codecogs.com/eqnedit.php?latex=y_i=(X^TC^iX&plus;&space;\lambda&space;I)^{-1}&space;X^TC^ip(i)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y_i=(X^TC^iX&plus;&space;\lambda&space;I)^{-1}&space;X^TC^ip(i)" title="y_i=(X^TC^iX+ \lambda I)^{-1} X^TC^ip(i)" /></a> e <a href="https://www.codecogs.com/eqnedit.php?latex=x_u=(Y^TC^uY&plus;&space;\lambda&space;I)^1&space;Y^TC^up(u)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_u=(Y^TC^uY&plus;&space;\lambda&space;I)^{-1}&space;Y^TC^up(u)" title="x_u=(Y^TC^uY+ \lambda I)^1 Y^TC^up(u)" /></a> del paper de Hu et al.: Takács, G., Pilászy, I., & Tikk, D. (2011). Applications of the conjugate gradient method for implicit feedback collaborative filtering. In Proceedings of the fifth ACM conference on Recommender systems (pp. 297-300). ACM.
 * Verstrepen, K., Bhaduriy, K., Cule, B., & Goethals, B. (2017). Collaborative filtering for binary, positiveonly data. ACM Sigkdd Explorations Newsletter, 19(1), 1-21.
@@ -201,19 +208,19 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 ### Semana 3:
 
 **Obligatorias**  
-* Cremonesi, P., Koren, Y., & Turrin, R. (2010). Performance of recommender algorithms on top-n recommendation tasks. In Proceedings of the fourth ACM conference on Recommender systems (pp. 39-46). ACM.  
 * Guy, S., & Gunawardana, A.. (2011) “Evaluating recommendation systems.” In Recommender systems handbook, pp. 257-297. Springer US, 2011.  
 
 **Sugeridas**  
 * Herlocker, J. L., Konstan, J. A., Terveen, L. G., & Riedl, J. T. (2004). Evaluating collaborative filtering recommender systems. ACM Transactions on Information Systems (TOIS), 22(1), 5-53.  
+* Cremonesi, P., Koren, Y., & Turrin, R. (2010). Performance of recommender algorithms on top-n recommendation tasks. In Proceedings of the fourth ACM conference on Recommender systems (pp. 39-46). ACM.  
 
 ### Semana 4:
 
 **Obligatorias**  
 * Pazzani, M. J., & Billsus, D. (2007). Content-based recommendation systems. In The adaptive web (pp. 325-341). Springer Berlin Heidelberg. Xu, W., Liu, X., & Gong, Y. (2003).
-* Document clustering based on non-negative matrix factorization. In Proceedings of the 26th annual international ACM SIGIR conference on Research and development in informaion retrieval (pp. 267-273). ACM.
 
 **Sugeridas**  
+* Document clustering based on non-negative matrix factorization. In Proceedings of the 26th annual international ACM SIGIR conference on Research and development in informaion retrieval (pp. 267-273). ACM.
 * Messina, P., Dominguez, V., Parra, D., Trattner, C., & Soto, A. (2019). Content-based artwork recommendation: integrating painting metadata with neural and manually-engineered visual features. User Modeling and User-Adapted Interaction, 29(2), 251-290.
 * Celma, Ò., & Herrera, P. (2008). A new approach to evaluating novel recommendations. In Proceedings of the 2008 ACM conference on Recommender systems (pp. 179-186).
 * Van den Oord, A., Dieleman, S., & Schrauwen, B. (2013). Deep content-based music recommendation. In Advances in neural information processing systems (pp. 2643-2651).
@@ -235,6 +242,7 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 Libre de lecturas (fiestas patrias)
 
+<!-- 
 ### Semana 8 :
 
 **Obligatorias con entrega lunes 5 de octubre**
@@ -273,3 +281,4 @@ Libre de lecturas (fiestas patrias)
 **Sugeridas**
 * Chen, J., Zhang, H., He, X., Nie, L., Liu, W., & Chua, T. S. (2017). Attentive collaborative filtering: Multimedia recommendation with item-and component-level attention. In Proceedings of the 40th International ACM SIGIR conference on Research and Development in Information Retrieval (pp. 335-344).
 * Liang, D., Krishnan, R. G., Hoffman, M. D., & Jebara, T. (2018). Variational autoencoders for collaborative filtering. In Proceedings of the 2018 World Wide Web Conference (pp. 689-698).
+-->
