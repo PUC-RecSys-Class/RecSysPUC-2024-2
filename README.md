@@ -36,7 +36,7 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 
 | Semana  | Tema             | link slide(s) | link video | comentario(s) |
 |:--------|:-----------------|:-------------:|:----------:|:-------------:|
-| 1       | Introducción                                          | x    | [video]()    |                   |
+| 1       | Introducción                                          | x    | [video](#)    |                   |
 | 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | [video](#)    |                   |
 | 1       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | [video](#)  |                   |
 | 1       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-SlopeOne.pdf)    | [video](#)   |                   |
