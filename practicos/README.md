@@ -1,21 +1,32 @@
 ## Prácticos Sistemas Recomendadores IIC3633
 
+## Material 2021
+
+A continuación encontrarán la lista de los prácticos que deberán realizar durante este semestre.
+
+| #  | Práctico                                                                                                                                  | Semana | Fecha Ayudantía | Encargado    | Video                                                                                                                                                                                             |
+|----|-------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | [Most Popular y Item Average Rating](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/practicos/pyRecLab_MostPopular.ipynb) | 1      | 16 Agosto       | Andrés C.    | <a href="https://youtu.be/MEY4UK4QCP4">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                     |
+| 2  | [User KNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/practicos/pyRecLab_uKNN.ipynb)                                  | 1      | 23 Agosto       | Manuel C.    | <a href="https://www.youtube.com/watch?v=Tu9p4i8vxdA">   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/YouTube_dark_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                           |
+| 3  | [Slope One](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/practicos/pyRecLab_SlopeOne.ipynb)                             | 2      | 23 Agosto       | Francisca C. | <a href="https://youtu.be/A2euuevpYis">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                           |
+| 4  | [Item KNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/practicos/pyRecLab_iKNN.ipynb)                                  | 2      | 23 Agosto       | Andrés V. | <a href="https://youtu.be/QZ0cfV-En3Q">   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/YouTube_dark_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                |
+| 5  | [Funk SVD](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/practicos/pyRecLab_FunkSVD.ipynb)                               | 2      | 30 Agosto       | Vladimir A. | <a href="https://www.youtube.com/watch?v=f5-ZMbTYZJQ">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a> |
+
+## Material 2020
 
 **Links ayudantías grabadas**
 
-[17 de Agosto](https://drive.google.com/file/d/1TGUKYi-jV7vJ5ns27pEMYyOqagQcfh_1/view?usp=sharing)   
+[23 de Agosto](https://drive.google.com/file/d/1TGUKYi-jV7vJ5ns27pEMYyOqagQcfh_1/view?usp=sharing)   
 
-[24 de Agosto](https://drive.google.com/file/d/1JsA1d5ZiS4IVNTMgDO1B2_gwnCIKhbzD/view?usp=sharing)
+[30 de Agosto](https://drive.google.com/file/d/1JsA1d5ZiS4IVNTMgDO1B2_gwnCIKhbzD/view?usp=sharing)
 
-[13 de Septiembre](https://drive.google.com/file/d/1x0iGCrcLvLBTch_cAeqnD17K3DeSKUhd/view)
+[6 de Septiembre](https://drive.google.com/file/d/1x0iGCrcLvLBTch_cAeqnD17K3DeSKUhd/view)
 
-[21 de Septiembre ](https://drive.google.com/file/d/1LeCCUQPNkRA9RFbw4N4nnaRgr4ZKPUjD/view)
+[13 de Septiembre ](https://drive.google.com/file/d/1LeCCUQPNkRA9RFbw4N4nnaRgr4ZKPUjD/view)
 
 [27 de Octubre ](https://drive.google.com/file/d/171kVEF-etFr2NN7VaB3pbv_l_kcr2WaK/view?usp=sharing)
 
 ------------------------------------
-
-A continuación encontrarán la lista de los prácticos que deberán realizar durante este semestre.
 
 | #  | Práctico                                                                                                                                  | Semana | Fecha Ayudantía | Encargado    | Video                                                                                                                                                                                             |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
