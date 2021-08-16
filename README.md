@@ -154,7 +154,7 @@ Este curso adscribe el Código de Honor establecido por la Escuela de Ingenierí
 
 ### Evaluaciones
 
-Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/1DkBNxdazzUH_UCo2ufBnvwA4nNuhHLKkthd_MJfc1VM/edit?usp=sharing).
+Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/1cuLgkwgrYTrJc-fuE8mSq0DWYUX82ockdMxCyLAJn6Y/edit#slide=id.g15879d578a_0_66).
 
 **Tarea 1**
 
