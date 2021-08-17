@@ -166,7 +166,7 @@ Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanism
 
 Fecha de revisión de blogs: El post de la semana x, tiene fecha de entrega el lunes a las 12pm de la semana x+1. Ejemplo: Las lecturas de la semana 1 (del 10 al 14 de agosto) se entregan a más tardar el lunes 17 de agosto de 2020 a las 8pm.
 
-Cada alumno tendrá un repositorio en github (debe indicarlo en [este formulario](#) donde escribirá en markdown sus comentarios respecto de los papers indicados como obligatorios. No es necesario hacer un resumen largo del paper, sino indicar un resumen corto, puntos que pueden abrir discusión, mejoras o controversias: Evaluación inadecuada, parámetros importantes no considerados, potenciales mejoras de los algoritmos, fuentes de datos que podían mejorar los resultados, etc.
+Cada alumno tendrá un repositorio en github (debe indicarlo en [este formulario](https://forms.gle/5L9T1TDy8ZsZqgWh7) donde escribirá en markdown sus comentarios respecto de los papers indicados como obligatorios. No es necesario hacer un resumen largo del paper, sino indicar un resumen corto, puntos que pueden abrir discusión, mejoras o controversias: Evaluación inadecuada, parámetros importantes no considerados, potenciales mejoras de los algoritmos, fuentes de datos que podían mejorar los resultados, etc.
 
 Adicionalmente, cada alumno presentará al menos una vez durante el semestre un paper sobre un tópico, con el objetivo de abrir una discusión sobre el tema durante la clase.
 
