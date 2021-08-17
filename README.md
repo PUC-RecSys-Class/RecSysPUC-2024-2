@@ -140,6 +140,8 @@ Los siguientes son ejemplos del 2020, se actualizará con información del 2021.
 | 21      | Finding Similar Users with Recommender Systems  <br/> Ovalle, Valdes   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A7-ovalle_valdes.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Valdes%20et%20al.pdf)    |
 -->
 
+### Planificación y Evaluaciones
+
 **MES 1** En las primeras semanas nos enfocaremos en métodos básicos para hacer recomendación usando y prediciendo ratings (filtrado colaborativo User-based & item-based, slope-one). Luego veremos métodos de factorización matricial para ratings y para feedback implícito. En la 3ra semana veremos formas adicionales de evaluar más alla de la métricas de error de predicción de rating (MAE, MSE, RMSE) e incorporaremos métricas para evaluar listas de ítems (precision, recall, MAP, P@n, nDCG). Veremos métodos basados en contenido y sistemas híbridos.
 
 **MES 2** Métodos basados en contexto, máquinas de factorización y modelos fundamentales de deep learning para recomendación. Recapitulación de las tareas de recomendacion (predecir rating, predecir una lista de items, recomendar una secuencia, recomendación TopN) y de su evaluacion considerando diversidad, novedad, coverage, y otras métricas.
@@ -176,7 +178,7 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 (actualizada el 17 de agosto de 2021)
 
-![Planificacion RecSys 2021](#)
+![Planificacion RecSys 2021](https://user-images.githubusercontent.com/208111/129725677-0cd3c1e1-5cca-44e9-947d-74dfb77d6f45.png)
 
 
 ## Lecturas por Semana
