@@ -37,7 +37,7 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | Semana  | Tema             | link slide(s) | link video | comentario(s) |
 |:--------|:-----------------|:-------------:|:----------:|:-------------:|
 | 1       | Introducción                                          | x    | [video](https://drive.google.com/file/d/1LwlP2avrSnU6gId_I9ywF3nFU7nboL09/view?usp=sharing)    |                   |
-| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | [video](#)    |                   |
+| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | [video](https://drive.google.com/file/d/10rL3XbuNVCCETiSvncFmcIpkKJ9B6Krg/view?usp=sharing)    |                   |
 | 1       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | [video](#)  |                   |
 | 1       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-SlopeOne.pdf)    | [video](#)   |                   |
 | 2       | Item-based FC                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s2_c1-IBCF.pdf)    | [video](#)    |                   |
