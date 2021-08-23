@@ -167,9 +167,9 @@ Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanism
 
 **Lecturas: Blog y Presentación**
 
-Fecha de revisión de blogs: El post de la semana x, tiene fecha de entrega el lunes a las 12pm de la semana x+1. Ejemplo: Las lecturas de la semana 1 (del 10 al 14 de agosto) se entregan a más tardar el lunes 17 de agosto de 2020 a las 8pm.
+Fecha de revisión de blogs: El post de la semana x, tiene fecha de entrega el lunes a las 20:00 de la semana x+1. Ejemplo: Las lecturas de la semana 1 (clases el 17 y 19 de agosto) se entregan a más tardar el lunes 23 de agosto de 2021 a las 20:00.
 
-Cada alumno tendrá un repositorio en github (debe indicarlo en [este formulario](https://forms.gle/5L9T1TDy8ZsZqgWh7) donde escribirá en markdown sus comentarios respecto de los papers indicados como obligatorios. No es necesario hacer un resumen largo del paper, sino indicar un resumen corto, puntos que pueden abrir discusión, mejoras o controversias: Evaluación inadecuada, parámetros importantes no considerados, potenciales mejoras de los algoritmos, fuentes de datos que podían mejorar los resultados, etc.
+Cada alumno tendrá un repositorio en github (debe indicarlo en [este formulario](https://forms.gle/5L9T1TDy8ZsZqgWh7)) donde escribirá en markdown sus comentarios respecto de los papers indicados como obligatorios. No es necesario hacer un resumen largo del paper, sino indicar un resumen corto, puntos que pueden abrir discusión, mejoras o controversias: Evaluación inadecuada, parámetros importantes no considerados, potenciales mejoras de los algoritmos, fuentes de datos que podían mejorar los resultados, etc.
 
 Adicionalmente, cada alumno presentará al menos una vez durante el semestre un paper sobre un tópico, con el objetivo de abrir una discusión sobre el tema durante la clase.
 
@@ -188,7 +188,7 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.google.cl) o a través de [EZProxy](https://login.pucdechile.idm.oclc.org/)
 
-### Semana 1:  
+### Semana 1 (entrega el 23 de agosto):  
 
 **Obligatorias**  
 * Schafer, J. B., Frankowski, D., Herlocker, J., & Sen, S. (2007). Collaborative filtering recommender systems. In The adaptive web (pp. 291-324). Springer Berlin Heidelberg. [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.4520&rep=rep1&type=pdf)
@@ -198,7 +198,7 @@ Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.go
 * [Post original FunkSVD](https://sifter.org/~simon/journal/20061211.html)  
 * Lemire, D., & Maclachlan, A. (2005). Slope One Predictors for Online Rating-Based Collaborative Filtering. In SDM (Vol. 5, pp. 1-5).
 
-### Semana 2:
+### Semana 2 (entrega el 30 de agosto):
 
 **Obligatorias**  
 * Koren, Y., Bell, R., & Volinsky, C. (2009). Matrix factorization techniques for recommender systems. Computer, 42(8), 30-37. [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.3234&rep=rep1&type=pdf)
@@ -213,7 +213,7 @@ Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.go
 * El siguiente paper es opcional, pero permite entender cómo se deriva <a href="https://www.codecogs.com/eqnedit.php?latex=y_i=(X^TC^iX&plus;&space;\lambda&space;I)^{-1}&space;X^TC^ip(i)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y_i=(X^TC^iX&plus;&space;\lambda&space;I)^{-1}&space;X^TC^ip(i)" title="y_i=(X^TC^iX+ \lambda I)^{-1} X^TC^ip(i)" /></a> e <a href="https://www.codecogs.com/eqnedit.php?latex=x_u=(Y^TC^uY&plus;&space;\lambda&space;I)^1&space;Y^TC^up(u)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_u=(Y^TC^uY&plus;&space;\lambda&space;I)^{-1}&space;Y^TC^up(u)" title="x_u=(Y^TC^uY+ \lambda I)^1 Y^TC^up(u)" /></a> del paper de Hu et al.: Takács, G., Pilászy, I., & Tikk, D. (2011). Applications of the conjugate gradient method for implicit feedback collaborative filtering. In Proceedings of the fifth ACM conference on Recommender systems (pp. 297-300). ACM.
 * Verstrepen, K., Bhaduriy, K., Cule, B., & Goethals, B. (2017). Collaborative filtering for binary, positiveonly data. ACM Sigkdd Explorations Newsletter, 19(1), 1-21.
 
-### Semana 3:
+### Semana 3 (entrega el 6 de septiembre):
 
 **Obligatorias**  
 * Guy, S., & Gunawardana, A.. (2011) “Evaluating recommendation systems.” In Recommender systems handbook, pp. 257-297. Springer US, 2011. [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.712.4138&rep=rep1&type=pdf)
@@ -222,7 +222,7 @@ Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.go
 * Herlocker, J. L., Konstan, J. A., Terveen, L. G., & Riedl, J. T. (2004). Evaluating collaborative filtering recommender systems. ACM Transactions on Information Systems (TOIS), 22(1), 5-53.  
 * Cremonesi, P., Koren, Y., & Turrin, R. (2010). Performance of recommender algorithms on top-n recommendation tasks. In Proceedings of the fourth ACM conference on Recommender systems (pp. 39-46). ACM.  
 
-### Semana 4:
+### Semana 4 (entrega el 13 de septiembre):
 
 **Obligatorias**  
 * Pazzani, M. J., & Billsus, D. (2007). Content-based recommendation systems. In The adaptive web (pp. 325-341). Springer Berlin Heidelberg. Xu, W., Liu, X., & Gong, Y. (2003).[pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.448.662&rep=rep1&type=pdf)
@@ -233,7 +233,7 @@ Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.go
 * Celma, Ò., & Herrera, P. (2008). A new approach to evaluating novel recommendations. In Proceedings of the 2008 ACM conference on Recommender systems (pp. 179-186).
 * Van den Oord, A., Dieleman, S., & Schrauwen, B. (2013). Deep content-based music recommendation. In Advances in neural information processing systems (pp. 2643-2651).
 
-### Semana 5:
+### Semana 5 (entrega el 20 de septiembre):
 
 **Obligatorias (esta semana se puede elegir una de las dos para entregar*)**  
 * Adomavicius, G., Mobasher, B., Ricci, F. and Tuzhilin, A. (2011). Context-Aware Recommender Systems. AI Magazine, 32(3), 67-80. 
@@ -245,7 +245,7 @@ Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.go
 
 *No olvidar declarar en la crítica el título elegido.
 
-### Semanas 6:
+### Semanas 6 (entrega el 27 de septiembre):
 
 **Obligatorias**
 * Hasta la sección 3.4 (incluyendo 3.4): Zhang, S., Yao, L., Sun, A., & Tay, Y. (2019). Deep learning based recommender system: A survey and new perspectives. ACM Computing Surveys (CSUR), 52(1), 1-38.
@@ -254,7 +254,7 @@ Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.go
 * Covington, P., Adams, J., & Sargin, E. (2016). Deep neural networks for youtube recommendations. In Proceedings of the 10th ACM conference on recommender systems (pp. 191-198).
 * Bansal, T., Belanger, D., & McCallum, A. (2016). Ask the gru: Multi-task learning for deep text recommendations. In Proceedings of the 10th ACM Conference on Recommender Systems (pp. 107-114).
 
-### Semana 7 :
+### Semana 7 (entrega el 4 de octubre):
 
 **Obligatorias**
 * He, C., Parra, D., & Verbert, K. (2016). Interactive recommender systems: A survey of the state of the art and future research challenges and opportunities. Expert Systems with Applications, 56, 9-27.
