@@ -1,6 +1,9 @@
 # IIC3633 Sistemas Recomendadores
 Agosto-Diciembre 2021
 
+**AYUDANTIA 1**
+Hoy lunes 23 es la primera ayudantia, a las 15:30. Revisen en su correo el aviso de canvas con el link zoom, o directamente en canvas.
+
 
 ### Equipo Docente e Información Administrativa
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
