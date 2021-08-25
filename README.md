@@ -1,8 +1,8 @@
 # IIC3633 Sistemas Recomendadores
 Agosto-Diciembre 2021
 
-**AYUDANTIA 1**
-Hoy lunes 23 es la primera ayudantia, a las 15:30. Revisen en su correo el aviso de canvas con el link zoom, o directamente en canvas.
+**AVISOS**
+El Jueves 26 de Septiembre hay clase en sala A7, es hibrida así es que pueden asistir presencialmente o de forma remota por el link zoom de siempre.
 
 
 ### Equipo Docente e Información Administrativa
