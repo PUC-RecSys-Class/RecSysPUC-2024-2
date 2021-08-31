@@ -163,7 +163,9 @@ Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/pres
 
 **Tarea 1**
 
-Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanismos de recomendación para predecir ratings y para rankear items en un dataset que se entregará durante clases. Usarán la biblioteca pyreclab para los métodos básicos, pero si quieren optar a la nota máxima debe hacer un sistema híbrido o contextual que utilice información de contenido, como texto o imágenes. Para tener una idea de qué se trata la tarea, pueden revisar el [enunciado de la tarea del año 2019](https://github.com/PUC-RecSys-Class/RecSysPUC-2019/blob/master/tarea/Tarea_1_RecSys_2019_2.pdf)
+Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanismos de recomendación para predecir ratings y para rankear items en un dataset que se entregará durante clases. Usarán la biblioteca pyreclab para los métodos básicos, pero si quieren optar a la nota máxima debe hacer un sistema híbrido o contextual que utilice información de contenido, como texto o imágenes. Para tener una idea de qué se trata la tarea, pueden revisar el [enunciado de la tarea](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/tareas/Tarea_1_RecSys_2021_2.pdf)
+
+
 
 **Lecturas: Blog y Presentación**
 
