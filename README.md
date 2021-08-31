@@ -197,6 +197,7 @@ Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.go
 * Sarwar, B., Karypis, G., Konstan, J., & Riedl, J. (2001). Item-based collaborative filtering recommendation algorithms. In Proceedings of the 10th international conference on World Wide Web (pp. 285-295).
 * [Post original FunkSVD](https://sifter.org/~simon/journal/20061211.html)  
 * Lemire, D., & Maclachlan, A. (2005). Slope One Predictors for Online Rating-Based Collaborative Filtering. In SDM (Vol. 5, pp. 1-5).
+* Kluver, D., Ekstrand, M. D., & Konstan, J. A. (2018). Rating-based collaborative filtering: algorithms and evaluation. Social Information Access, 344-390.
 
 ### Semana 2 (entrega el 30 de agosto):
 
