@@ -4,6 +4,10 @@
 
 A continuación encontrarán la lista de los prácticos que deberán realizar durante este semestre.
 
+**Links ayudantías grabadas**
+
+[23 de Agosto](https://drive.google.com/file/d/1lCws-nLPFlFRPL43Cn3K-w0S5bLld9Nc/view?usp=sharing)   
+
 | #  | Práctico                                                                                                                                  | Semana | Fecha Ayudantía | Encargado    | Video                                                                                                                                                                                             |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | [Most Popular y Item Average Rating](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/practicos/pyRecLab_MostPopular.ipynb) | 2      | 23 Agosto       | Jorge	 F.    | <a href="https://youtu.be/MEY4UK4QCP4">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                     |
