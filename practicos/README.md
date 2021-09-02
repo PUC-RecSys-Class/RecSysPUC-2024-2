@@ -7,6 +7,7 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 **Links ayudantías grabadas**
 
 [23 de Agosto](https://drive.google.com/file/d/1lCws-nLPFlFRPL43Cn3K-w0S5bLld9Nc/view?usp=sharing)   
+[30 de Agosto](https://drive.google.com/file/d/1epgL1GwZWijIv0Gex0IlZ0GWDYgH4O2_/view?usp=sharing)
 
 | #  | Práctico                                                                                                                                  | Semana | Fecha Ayudantía | Encargado    | Video                                                                                                                                                                                             |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
