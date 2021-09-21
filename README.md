@@ -183,8 +183,7 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 (actualizada el 17 de agosto de 2021)
 
-![Planificacion RecSys 2021](https://user-images.githubusercontent.com/208111/129725677-0cd3c1e1-5cca-44e9-947d-74dfb77d6f45.png)
-
+![Planificacion RecSys 2021](https://user-images.githubusercontent.com/37160854/134259748-be5f1ab5-3e1c-4a42-a5d6-b75c4627945c.png)
 
 ## Lecturas por Semana
 
