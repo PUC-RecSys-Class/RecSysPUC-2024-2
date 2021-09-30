@@ -56,7 +56,14 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | 6       | Recomendación por ensambles                           | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c2_p3-blending_ensemble.pdf)    | [video](https://drive.google.com/file/d/1o5cL5JspHI8QizFeMT8_9HQKqNT2rmqm/view?usp=sharing)    |                   |
 | 6       | Recomendación basada en contexto                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c1-contexto.pdf)    | [video1](https://drive.google.com/file/d/1fC3Ypg5aF8Be_8b7ZpPFqwVdtJS2kwzm/view?usp=sharing) [video2](https://drive.google.com/file/d/10r_6DzrKflF8sVzgZ1mU8xb8mJC2BcgO/view?usp=sharing)   |                   |
 | 6       | Máquinas de Factorización                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c2_p2-FMachines.pdf)    | [video](https://drive.google.com/file/d/111IK4ZIE-bqiNWmYLyafQoS0kthETLUr/view?usp=sharing)    |                   |
-| 7       | Semana Break                             | Break    | Break    |                   |
+| 7       | Deep Learning I                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s11_c1_deep_learning.pdf)    | [video]()    |                   |
+| 7       | Deep Learning II                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s11_c2_secu_deep_learning.pdf)    | ToDo    |                   |
+| 8       | SR Centrados en el Usuario                             | ToDo    | ToDo    |                   |
+| 8       | Sistemas Justos, Explicables y Transparentes                              | ToDo    | ToDo    |                   |
+| 9       |  Aprendizaje Activo (Active Learning)                             | ToDo    | ToDo    |                   |
+| 9       |  Bandits                            | ToDo    | ToDo    |                   |
+| --       | Semana Break                             | Break    | Break    |                   |
+
 
 
 <!--
