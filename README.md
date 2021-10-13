@@ -59,9 +59,9 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | 7       | Deep Learning I: Intro                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s7_c1_deep_learning.pdf)    | [video](https://drive.google.com/file/d/1KHpLMWd4ISSNOadeXdngK-fQSXpVUols/view?usp=sharing)    |                   |
 | 7       | Deep Learning II: Tres proyectos                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s7_c2_deep_learning_s.pdf)    | [video](https://drive.google.com/file/d/1l3fkgyubvrbMjziieKiLglbaJR9USTVA/view?usp=sharing)    |                   |
 | 7       | Deep Learning III: Secuencias                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s7_c2_secu_deep_learning.pdf)    | ToDo    |                   |
-| 8       | SR Centrados en el Usuario                             | ToDo    | ToDo    |                   |
-| 8       | Sistemas Justos, Explicables y Transparentes                              | ToDo    | ToDo    |                   |
-| 9       |  Aprendizaje Activo (Active Learning)                             | ToDo    | ToDo    |                   |
+| 8       | SR Centrados en el Usuario                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s9_c1_usercentric.pdf)    | ToDo    |                   |
+| 8       | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s9_c2_FATv2.pdf)    | ToDo    |                   |
+| 9       |  Aprendizaje Activo (Active Learning)                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s10_c1_activelearning_v3.pdf)    | ToDo    |                   |
 | 9       |  Bandits                            | ToDo    | ToDo    |                   |
 | --       | Semana Break                             | Break    | Break    |                   |
 
