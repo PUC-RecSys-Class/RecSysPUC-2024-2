@@ -61,7 +61,7 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | 7       | Deep Learning III: Secuencias                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s7_c2_secu_deep_learning.pdf)    | ToDo    |                   |
 | 8       | SR Centrados en el Usuario                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s9_c1_usercentric.pdf)    | [video](https://drive.google.com/file/d/1B8-N2ZtyE9p5KBr-EuoT1YQ-Fy0GDUF1/view?usp=sharing)    |                   |
 | 8       | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s9_c2_FATv2.pdf)    | [video](https://drive.google.com/file/d/1HooxTDVwa9WQM1YXQWjDTRT-i1dmkO8m/view?usp=sharing)    |                   |
-| 9       |  Aprendizaje Activo (Active Learning)                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s10_c1_activelearning_v3.pdf)    | ToDo    |                   |
+| 9       |  Aprendizaje Activo (Active Learning)                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s10_c1_activelearning_v3.pdf)    | [video](https://drive.google.com/file/d/1_hMeckheVQLauyNrFNheBrcn3qpoCwJO/view?usp=sharing)    |                   |
 | 9       |  Bandits                            | ToDo    | ToDo    |                   |
 | --       | Semana Break                             | Break    | Break    |                   |
 
