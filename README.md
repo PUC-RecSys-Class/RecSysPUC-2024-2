@@ -58,11 +58,10 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | 6       | Máquinas de Factorización                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c2_p2-FMachines.pdf)    | [video](https://drive.google.com/file/d/111IK4ZIE-bqiNWmYLyafQoS0kthETLUr/view?usp=sharing)    |                   |
 | 7       | Deep Learning I: Intro                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s7_c1_deep_learning.pdf)    | [video](https://drive.google.com/file/d/1KHpLMWd4ISSNOadeXdngK-fQSXpVUols/view?usp=sharing)    |                   |
 | 7       | Deep Learning II: Tres proyectos                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s7_c2_deep_learning_s.pdf)    | [video](https://drive.google.com/file/d/1l3fkgyubvrbMjziieKiLglbaJR9USTVA/view?usp=sharing)    |                   |
-| 7       | Deep Learning III: Secuencias                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s7_c2_secu_deep_learning.pdf)    | ToDo    |                   |
 | 8       | SR Centrados en el Usuario                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s9_c1_usercentric.pdf)    | [video](https://drive.google.com/file/d/1B8-N2ZtyE9p5KBr-EuoT1YQ-Fy0GDUF1/view?usp=sharing)    |                   |
 | 8       | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s9_c2_FATv2.pdf)    | [video](https://drive.google.com/file/d/1HooxTDVwa9WQM1YXQWjDTRT-i1dmkO8m/view?usp=sharing)    |                   |
 | 9       |  Aprendizaje Activo (Active Learning)                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s10_c1_activelearning_v3.pdf)    | [video](https://drive.google.com/file/d/1_hMeckheVQLauyNrFNheBrcn3qpoCwJO/view?usp=sharing)    |                   |
-| 9       |  Bandits                            | ToDo    | ToDo    |                   |
+| 9       |  Bandits                            | [slides](https://drive.google.com/file/d/1SlDt7UCDrtJBIPUxAMjhqzsjz6uelyIn/view?usp=sharing)    | ToDo    |                   |
 | --       | Semana Break                             | Break    | Break    |                   |
 
 
