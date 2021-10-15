@@ -61,7 +61,7 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | 8       | SR Centrados en el Usuario                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s9_c1_usercentric.pdf)    | [video](https://drive.google.com/file/d/1B8-N2ZtyE9p5KBr-EuoT1YQ-Fy0GDUF1/view?usp=sharing)    |                   |
 | 8       | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s9_c2_FATv2.pdf)    | [video](https://drive.google.com/file/d/1HooxTDVwa9WQM1YXQWjDTRT-i1dmkO8m/view?usp=sharing)    |                   |
 | 9       |  Aprendizaje Activo (Active Learning)                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s10_c1_activelearning_v3.pdf)    | [video](https://drive.google.com/file/d/1_hMeckheVQLauyNrFNheBrcn3qpoCwJO/view?usp=sharing)    |                   |
-| 9       |  Bandits                            | [slides](https://drive.google.com/file/d/1SlDt7UCDrtJBIPUxAMjhqzsjz6uelyIn/view?usp=sharing)    | ToDo    |                   |
+| 9       |  Bandits                            | [slides](https://drive.google.com/file/d/1SlDt7UCDrtJBIPUxAMjhqzsjz6uelyIn/view?usp=sharing)    | [video](https://drive.google.com/file/d/1PyIFL8dDtQ4W0y_t89jrXzJnZcl56TEj/view?usp=sharing)    |                   |
 | --       | Semana Break                             | Break    | Break    |                   |
 
 
