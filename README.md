@@ -84,8 +84,10 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
 
-| Semana  | Tema             | link slide(s) | link video | conferencia |
-|:--------|:-----------------|:-------------:|:----------:|:-----------|
+| Semana  | Paper            | link slide(s) | link video | conferencia |
+|:--------|:-----------------|:-------------:|:----------:|:-------------:|
+|10       |Towards Question-based Recommender Systems|[slides](https://drive.google.com/file/d/10XYI2tyArpuUwU_kUx4XbwMLuS4ayqxa/view?usp=sharing)|[video](https://drive.google.com/file/d/1P10wU06ISrKbzb7ZG7J_bKVRxOcB-MU4/view?usp=sharing)|[SIGIR 2020](https://arxiv.org/abs/2005.14255)|
+|10       |AutoDebias: Learning to Debias for Recommendation|[slides](https://drive.google.com/file/d/16dNsfR8YXzFi99tXOdofEbxF6CA59e_u/view?usp=sharing)|[video](https://drive.google.com/file/d/16dNsfR8YXzFi99tXOdofEbxF6CA59e_u/view?usp=sharing)|[SIGIR 2021](https://arxiv.org/pdf/2105.04170.pdf)|
 <!--
 | 13       | CTRec: A Long-Short Demands Evolution Model for Continuous-Time Recommendation    | [slides](https://drive.google.com/file/d/1Ys-8asyvEYR1Fr_lbY3D_pJkU88f1jHs/view?usp=sharing)    | [video](https://drive.google.com/file/d/12wMh58M3ogqaWdmfKJpXDsZRyTOba9r1/view?usp=sharing)    |  [SIGIR 2019](https://dl.acm.org/doi/abs/10.1145/3331184.3331199)                  |
 | 13       | Collaborative Similarity Embedding for Recommender Systems         | [slides](https://drive.google.com/file/d/1QoreUxFm_Qu5hHvzywPsj02pslXvefkK/view?usp=sharing)    | [video](https://drive.google.com/file/d/15ewTouX8aLn2ib3LEt_2s226zd2VZyi0/view?usp=sharing)    | [WWW 2019](https://dl.acm.org/doi/abs/10.1145/3308558.3313493) |
