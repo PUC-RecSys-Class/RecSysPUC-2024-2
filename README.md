@@ -98,6 +98,10 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 |12       |Cold Start Similar Artists Ranking with Gravity-Inspired Graph Autoencoders|[slides](https://drive.google.com/file/d/1MoKhaqvM1xFrL786lO1ImabyGZ2i5BpS/view?usp=sharing)|[video](https://drive.google.com/file/d/1HdGrK2g2dgc7gzM6cgclYIFBYD7nKBs-/view?usp=sharing)|[RECSYS 2021](https://arxiv.org/pdf/2108.01053.pdf)|
 |12       |A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images|[slides](https://drive.google.com/file/d/1z3i3GYMLXzrxDalQMi-QX6tv_GtHZUpF/view?usp=sharing)|[video](https://drive.google.com/file/d/1o6lsiuUyyGb8wu4P9_p8etV0EON7JN93/view?usp=sharing)|[SIGIR 21](https://dl.acm.org/doi/abs/10.1145/3404835.3462848)|
 |12       |Reward Constrained Interactive Recommendation with Natural Language Feedback|[slides](https://drive.google.com/file/d/1MMeiiQfnraZXYDBJiONgs5Q0dPWduBo2/view?usp=sharing)|[video](https://drive.google.com/file/d/1kpidqRMutix3GBP49_LRVFLb3_ILL0LF/view?usp=sharing)|[Neurips 2019](https://papers.nips.cc/paper/2019/hash/52130c418d4f02c74f74a5bc1f8020b2-Abstract.html)|
+|12       |Neural Attentional Rating Regression with Review-level
+Explanations|[slides](https://drive.google.com/file/d/1Vf1XvQEet1O7eoC4t2hi_Jha7iWvmnJu/view?usp=sharing)|[video](https://drive.google.com/file/d/1M2pSKx2hQHiPahwEpp3uJ_LZc7H36QAM/view?usp=sharing)|[WWW'18](https://dl.acm.org/doi/10.1145/3178876.3186070)|
+|12       |Justifying Recommendations using Distantly-Labeled Reviews and
+Fine-Grained Aspects|[slides](https://drive.google.com/file/d/1LyMIUACq-_wrXL661BvBArtQ4_pVudsA/view?usp=sharing)|[video]()|[EMNLP-IJCNLP '19](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19a.pdf)|
 
 ### Proyectos finales
 
