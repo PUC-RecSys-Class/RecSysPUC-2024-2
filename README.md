@@ -101,7 +101,8 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 |12       |Neural Attentional Rating Regression with Review-level
 Explanations|[slides](https://drive.google.com/file/d/1Vf1XvQEet1O7eoC4t2hi_Jha7iWvmnJu/view?usp=sharing)|[video](https://drive.google.com/file/d/1M2pSKx2hQHiPahwEpp3uJ_LZc7H36QAM/view?usp=sharing)|[WWW'18](https://dl.acm.org/doi/10.1145/3178876.3186070)|
 |12       |Justifying Recommendations using Distantly-Labeled Reviews and
-Fine-Grained Aspects|[slides](https://drive.google.com/file/d/1LyMIUACq-_wrXL661BvBArtQ4_pVudsA/view?usp=sharing)|[video]()|[EMNLP-IJCNLP '19](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19a.pdf)|
+Fine-Grained Aspects|[slides](https://drive.google.com/file/d/1LyMIUACq-_wrXL661BvBArtQ4_pVudsA/view?usp=sharing)|[video](https://drive.google.com/file/d/1jayH4aDRbPnw8_k36agLfgzyisxU5TTd/view?usp=sharing)|[EMNLP-IJCNLP '19](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19a.pdf)|
+|12       |Neural Personalized Ranking for Image Recommendation|[slides](https://drive.google.com/file/d/1GZGqHAf7SRxhSVEZ4O3bNAWngGnJnqxJ/view?usp=sharing)|[video](https://drive.google.com/file/d/1dACQJJnTCu2hPzOyqjCuOJY5yiiEe7h6/view?usp=sharing)|[WSDM '18](https://dl.acm.org/doi/10.1145/3159652.3159728)|
 
 ### Proyectos finales
 
