@@ -25,6 +25,11 @@ Programa IIC 3633, 2do Semestre 2022: [pdf](https://dparra.sitios.ing.uc.cl/pdfs
 
 El curso de Sistemas Recomendadores cubre las principales tareas de recomendación, algoritmos, fuentes de datos y evaluación de estos sistemas. Al final de este curso serás capaz de decidir qué técnicas y fuentes de datos usar para implementar y evaluar sistemas recomendadores.
 
+**Evaluaciones**:
+
+Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/19U5aaiUR1CE6lttf3lfzspsR37kwERRfn_zJ6m54MwE/edit#slide=id.p).
+
+
 **Software**: [Suprise](http://surpriselib.com/) y [pyRecLab](https://github.com/gasevi/pyreclab/).
 
 La componente práctica de este curso se enseña a través del uso de pyRecLab desarrollado por Gabriel Sepúlveda (ex-alumno de este curso), biblioteca de software para desarrollo de sistemas recomendadores en Python.
@@ -182,7 +187,7 @@ Este curso adscribe el Código de Honor establecido por la Escuela de Ingenierí
 
 ### Evaluaciones
 
-Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/1cuLgkwgrYTrJc-fuE8mSq0DWYUX82ockdMxCyLAJn6Y/edit#slide=id.g15879d578a_0_66).
+Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/19U5aaiUR1CE6lttf3lfzspsR37kwERRfn_zJ6m54MwE/edit#slide=id.p).
 
 **Tarea 1**
 
