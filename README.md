@@ -1,32 +1,31 @@
 # IIC3633 Sistemas Recomendadores
-Agosto-Diciembre 2021
+Agosto-Diciembre 2022
 
 **AVISOS**
-El Jueves 26 de Septiembre hay clase en sala A7, es hibrida así es que pueden asistir presencialmente o de forma remota por el link zoom de siempre.
+¡Estamos actualizando el sitio web! Las clases se inician el martes 8 de agosto a las 11:30am en la sala B24. ¡Nos vemos!
 
 
 ### Equipo Docente e Información Administrativa
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
 
 **Ayudantes**:  
-[Vladimir Araujo](https://vgaraujov.github.io/), Estudiante de Doctorado en Ciencia de la Computación PUC Chile.  
-[Andrés Carvallo](https://scholar.google.com/citations?user=DinpmCUAAAAJ&hl=es), Estudiante de Doctorado en Ciencia de la Computación PUC Chile.  
-[Francisca Cattan](https://www.linkedin.com/in/franciscacattan/), Estudiante de Doctorado en Ciencia de la Computación PUC Chile.  
 [Alvaro Labarca](#), Estudiante de Magister, en Ciencia de la Computación PUC Chile.  
 [Jorge Pérez Facuse](#), Estudiante de Magister, en Ciencia de la Computación PUC Chile.  
+[Florencia Ferrer](#), Estudiante de Ingeniería, en Ciencia de la Computación PUC Chile.  
+[Nicolás Sumonte](#), Estudiante de Ingeniería, en IMC PUC Chile.  
  
 
 **Institución**: Pontificia Universidad Católica de Chile
 
 **Horario**: Martes y Jueves, Módulo 3 (11:30 a 12:50).
 
-Programa IIC 3633, 2do Semestre 2021: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
+Programa IIC 3633, 2do Semestre 2022: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
 
 ### Descripción del Curso
 
 El curso de Sistemas Recomendadores cubre las principales tareas de recomendación, algoritmos, fuentes de datos y evaluación de estos sistemas. Al final de este curso serás capaz de decidir qué técnicas y fuentes de datos usar para implementar y evaluar sistemas recomendadores.
 
-**Software**: [pyRecLab](https://github.com/gasevi/pyreclab/).
+**Software**: [Suprise](http://surpriselib.com/) y [pyRecLab](https://github.com/gasevi/pyreclab/).
 
 La componente práctica de este curso se enseña a través del uso de pyRecLab desarrollado por Gabriel Sepúlveda (ex-alumno de este curso), biblioteca de software para desarrollo de sistemas recomendadores en Python.
 
