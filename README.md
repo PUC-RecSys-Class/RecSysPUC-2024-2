@@ -199,7 +199,7 @@ Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanism
 
 Fecha de revisión de blogs: El post de la semana x, tiene fecha de entrega el lunes a las 20:00 de la semana x+1. Ejemplo: Las lecturas de la semana 1 (clases el 9 y 11 de agosto) se entregan a más tardar el lunes 15 de agosto de 2022 a las 20:00.
 
-Cada alumno debe crear una cuenta en el sitio [Perusall]https://app.perusall.com con su correo uc. Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias
+Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com) con su correo uc. Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias
 
 Adicionalmente, cada alumno presentará al menos una vez durante el semestre un paper sobre un tópico, con el objetivo de abrir una discusión sobre el tema durante la clase.
 
@@ -211,7 +211,8 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 (actualizada el 08 de agosto de 2022)
 
-![Planificacion RecSys 2022]!(https://user-images.githubusercontent.com/53876461/183514098-638943be-4627-48dd-874f-c47d91abeda2.png)
+![Calendario 2022-2](https://user-images.githubusercontent.com/53876461/183516596-1f981762-93f4-4892-aff2-7818ad5c1ed2.png)
+
 
 
 ## Lecturas por Semana
