@@ -2,7 +2,7 @@
 Agosto-Diciembre 2022
 
 **AVISOS**
-¡Estamos actualizando el sitio web! Las clases se inician el martes 8 de agosto a las 11:30am en la sala B24. ¡Nos vemos!
+¡Estamos actualizando el sitio web! Las clases se inician el martes 9 de agosto a las 11:30am en la sala B24. ¡Nos vemos!
 
 
 ### Equipo Docente e Información Administrativa
@@ -209,9 +209,11 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 ## Planificación general (sujeta a actualización)
 
-(actualizada el 08 de agosto de 2022)
+(actualizada el 09 de agosto de 2022)
 
-![Calendario 2022-2](https://user-images.githubusercontent.com/53876461/183516596-1f981762-93f4-4892-aff2-7818ad5c1ed2.png)
+![Calendario 2022-2](https://user-images.githubusercontent.com/208111/183686416-4ff6d9f0-5e80-42e0-97b4-40df5d92ba0b.png)
+
+<!--[Calendario 2022-2](https://user-images.githubusercontent.com/53876461/183516596-1f981762-93f4-4892-aff2-7818ad5c1ed2.png)-->
 
 
 
