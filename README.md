@@ -41,32 +41,31 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
 
-| Semana  | Tema             | link slide(s) | link video | comentario(s) |
-|:--------|:-----------------|:-------------:|:----------:|:-------------:|
-| 1       | Introducción                                          | x    | [video](https://drive.google.com/file/d/1LwlP2avrSnU6gId_I9ywF3nFU7nboL09/view?usp=sharing)    |                   |
-| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | [video](https://drive.google.com/file/d/10rL3XbuNVCCETiSvncFmcIpkKJ9B6Krg/view?usp=sharing)    |                   |
-| 1       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | [video](#)  |                   |
-| 2       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-SlopeOne.pdf)    | [video](https://drive.google.com/file/d/1MAAo4hlJKnNvBAyFyHmGimtHju-ytSpi/view?usp=sharing)   |                   |
-| 2       | Item-based FC                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s2_c1-IBCF.pdf)    | [video](https://drive.google.com/file/d/1MAAo4hlJKnNvBAyFyHmGimtHju-ytSpi/view?usp=sharing)    |                   |
-| 2       | Factorización Matricial: FunkSVD                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s2_c2-Factorizacion_matricial.pdf)    | [video](https://drive.google.com/file/d/1GSVTKI6QXDEmhWfRb0YqjMe7HHcUVfbv/view?usp=sharing)    |                   |
-| 3       | Implicit Feedback CF                                  | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s3_c1-Implicit-feedback.pdf)    | [video](https://drive.google.com/file/d/1xR3QK2erxukNCMlyQJLB1rA6Qu45gLlG/view?usp=sharing)  |                   |
-| 3       | Bayesian Personalized Ranking (BPR)                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s3_c2-BPR.pdf)    | [video](https://drive.google.com/file/d/1cq0_y7q5G6xqMa7HM9nxSrRCOGZHXzBa/view?usp=sharing)    |                   |
+| Semana  | Tema             | link slide(s) | 
+|:--------|:-----------------|:-------------:|
+| 1       | Introducción                                          | x    | 
+| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | 
+| 1       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | 
+| 2       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s1-c2-SlopeOne.pdf)    | 
+| 2       | Item-based FC                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s2_c1-IBCF.pdf)    | 
+| 2       | Factorización Matricial: FunkSVD                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s2_c2-Factorizacion_matricial.pdf)    |
+| 3       | Implicit Feedback CF                                  | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s3_c1-Implicit-feedback.pdf)    |
+| 3       | Bayesian Personalized Ranking (BPR)                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s3_c2-BPR.pdf)    |
 | 4       | Evaluación: metricas de error y ranking               | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s4_c1-metricas.pdf)    | [video](https://drive.google.com/file/d/1Rr_-3HF4Bkal_RV1036A9PjwZX-fAcYj/view?usp=sharing)    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
-| 4       | Evaluación II: Cobertura, diversidad, novedad                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s4_c1-metricas.pdf)    | [video](#)     |                   |
-| 4       | Evaluación III: Tests estadísticos                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s4_c2-tests_estadisticos.pdf)     | [video](#)    |                   |
-| 5       | Recomendación basada en contenido 1                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s5_c1-content.pdf)    | [video](https://drive.google.com/file/d/1SGsph_uYSxJuWBhLfh1YhZCazZXFCTCQ/view?usp=sharing)    |                   |
-| 5       | Recomendación basada en contenido 2                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s5_c2-content.pdf)    | [video](#)    |                   |
-| 6       | Recomendación híbrida                                 | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c1-hibridos.pdf)    | [video](https://drive.google.com/file/d/1aUNYNli4l4xk_hGRB7v-PaRr0xtJWQau/view?usp=sharing)    |                   |
-| 6       | Recomendación por ensambles                           | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c2_p3-blending_ensemble.pdf)    | [video](https://drive.google.com/file/d/1o5cL5JspHI8QizFeMT8_9HQKqNT2rmqm/view?usp=sharing)    |                   |
-| 6       | Recomendación basada en contexto                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c1-contexto.pdf)    | [video1](https://drive.google.com/file/d/1fC3Ypg5aF8Be_8b7ZpPFqwVdtJS2kwzm/view?usp=sharing) [video2](https://drive.google.com/file/d/10r_6DzrKflF8sVzgZ1mU8xb8mJC2BcgO/view?usp=sharing)   |                   |
-| 6       | Máquinas de Factorización                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c2_p2-FMachines.pdf)    | [video](https://drive.google.com/file/d/111IK4ZIE-bqiNWmYLyafQoS0kthETLUr/view?usp=sharing)    |                   |
-| 7       | Deep Learning I: Intro                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s7_c1_deep_learning.pdf)    | [video](https://drive.google.com/file/d/1KHpLMWd4ISSNOadeXdngK-fQSXpVUols/view?usp=sharing)    |                   |
-| 7       | Deep Learning II: Tres proyectos                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s7_c2_deep_learning_s.pdf)    | [video](https://drive.google.com/file/d/1l3fkgyubvrbMjziieKiLglbaJR9USTVA/view?usp=sharing)    |                   |
-| 8       | SR Centrados en el Usuario                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s9_c1_usercentric.pdf)    | [video](https://drive.google.com/file/d/1B8-N2ZtyE9p5KBr-EuoT1YQ-Fy0GDUF1/view?usp=sharing)    |                   |
-| 8       | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s9_c2_FATv2.pdf)    | [video](https://drive.google.com/file/d/1HooxTDVwa9WQM1YXQWjDTRT-i1dmkO8m/view?usp=sharing)    |                   |
-| 9       |  Aprendizaje Activo (Active Learning)                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s10_c1_activelearning_v3.pdf)    | [video](https://drive.google.com/file/d/1_hMeckheVQLauyNrFNheBrcn3qpoCwJO/view?usp=sharing)    |                   |
-| 9       |  Bandits                            | [slides](https://drive.google.com/file/d/1SlDt7UCDrtJBIPUxAMjhqzsjz6uelyIn/view?usp=sharing)    | [video](https://drive.google.com/file/d/1PyIFL8dDtQ4W0y_t89jrXzJnZcl56TEj/view?usp=sharing)    |                   |
-| --       | Semana Break                             | Break    | Break    |                   |
+| 4       | Evaluación II: Cobertura, diversidad, novedad                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s4_c1-metricas.pdf)    | 
+| 4       | Evaluación III: Tests estadísticos                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s4_c2-tests_estadisticos.pdf)     |
+| 5       | Recomendación basada en contenido 1                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s5_c1-content.pdf)    | 
+| 5       | Recomendación basada en contenido 2                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s5_c2-content.pdf)    | 
+| 6       | Recomendación híbrida                                 | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c1-hibridos.pdf)    | 
+| 6       | Recomendación por ensambles                           | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c2_p3-blending_ensemble.pdf)    |
+| 6       | Recomendación basada en contexto                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c1-contexto.pdf)    |
+| 6       | Máquinas de Factorización                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s6_c2_p2-FMachines.pdf)    | 
+| 7       | Deep Learning I: Intro                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s7_c1_deep_learning.pdf)    | 
+| 7       | Deep Learning II: Tres proyectos                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s7_c2_deep_learning_s.pdf)    |
+| 8       | SR Centrados en el Usuario                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s9_c1_usercentric.pdf)    | 
+| 8       | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s9_c2_FATv2.pdf)    | 
+| 9       |  Aprendizaje Activo (Active Learning)                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s10_c1_activelearning_v3.pdf)    |
+| 9       |  Bandits                            | [slides](https://drive.google.com/file/d/1SlDt7UCDrtJBIPUxAMjhqzsjz6uelyIn/view?usp=sharing)    |
 
 
 
@@ -114,7 +113,7 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 
 ### Proyectos finales
 
-L@s estudiantes trabajan en grupo sobre proyectos finales de curso, produciendo un poster, paper y repositorio con código para cada uno:
+L@s estudiantes trabajan en grupo sobre proyectos finales de curso, produciendo un poster, paper y repositorio con código para cada uno (en la siguiente tabla se encuentran algunos proyectos del 2021):
 
 <!-- Imagen de la sesión de posters en gather.town del 15 de diciembre de 2020. 
 ![iic3633-2020-2-posters](https://user-images.githubusercontent.com/208111/102280274-9a3fe180-3f0b-11eb-80ba-a5975227984a.png)
