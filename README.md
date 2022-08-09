@@ -197,7 +197,7 @@ Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanism
 
 **Lecturas: Blog y Presentación**
 
-Fecha de revisión de blogs: El post de la semana x, tiene fecha de entrega el lunes a las 20:00 de la semana x+1. Ejemplo: Las lecturas de la semana 1 (clases el 9 y 11 de agosto) se entregan a más tardar el lunes 15 de agosto de 2022 a las 20:00.
+Fecha de revisión de comentarios de lecturas: El post de la semana x, tiene fecha de entrega el lunes a las 20:00 de la semana x+1. Ejemplo: Las lecturas de la semana 1 (clases el 9 y 11 de agosto) se entregan a más tardar el lunes 15 de agosto de 2022 a las 20:00.
 
 Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com) con su correo uc. Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias
 
@@ -220,6 +220,8 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 ## Lecturas por Semana
 
 Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.google.cl) o a través de [EZProxy](https://login.pucdechile.idm.oclc.org/)
+Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com) con su correo uc. Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias
+
 
 ### Semana 1 (entrega el 15 de Agosto):  
 
