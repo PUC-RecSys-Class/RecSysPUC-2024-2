@@ -1,5 +1,24 @@
 ## Prácticos Sistemas Recomendadores IIC3633
 
+## Material 2022
+
+A continuación encontrarán la lista de los prácticos que deberán realizar durante este semestre.
+
+| #  | Práctico                                                                                                                                  | Semana | Fecha Ayudantía | Encargado    | Video                                                                                                                                                                                             |
+|----|-------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | [Most Popular y Item Average Rating](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/pyRecLab_MostPopular.ipynb) | 2      | 15 Agosto       | Álvaro L.    | <a href="https://youtu.be/MEY4UK4QCP4">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                     |
+| 2  | [User KNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Surprise_UKNN.ipynb)                                  | 2      | 15 Agosto       | Álvaro L.    | <a href="https://www.youtube.com/watch?v=Tu9p4i8vxdA">   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/YouTube_dark_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                           |
+| 3  | [Slope One](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/pyRecLab_SlopeOne.ipynb)                             | 2      | 15 Agosto       | Álvaro L. | <a href="https://youtu.be/A2euuevpYis">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                           |
+| 4  | [Item KNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/pyRecLab_iKNN.ipynb)                                  | 3      | 22 Agosto       |  | |
+| 5  | [Funk SVD](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/pyRecLab_FunkSVD.ipynb)                               | 3      | 22 Agosto       |  |  |
+| 6  | [Implicit Feedback y BPR](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Implicit_feedback.ipynb)                     | 4      | 29 Agosto       | |    |
+| 7  | [Content-based (Texto)](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Content_Based_texto.ipynb)				| 5      | 5 Septiembre |  |   |
+| 8  | [Content-based (Imágenes)](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Content_Based_imagenes.ipynb) 		| 5      | 5 Septiembre | |    |
+| 9 | [CF con Deep Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/MultiVAE_Practico.ipynb)   				| 7      | 19 Septiembre | |   |
+| 10 | [Recomendación Secuencial](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/GRU4Rec.ipynb)		  				| 8      | 26 Septiembre | | |
+| 11 | [Reinforcement Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Reinforcement_Learning_Mabwiser.ipynb)   | 9     | 3 Octubre |  |   |
+| 12 | [Deep learning Avanzado (no se responde)](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/HT4Rec.ipynb)                                                                                                                   | 10     | 11 Octubre |   |        |     
+
 ## Material 2021
 
 A continuación encontrarán la lista de los prácticos que deberán realizar durante este semestre.
