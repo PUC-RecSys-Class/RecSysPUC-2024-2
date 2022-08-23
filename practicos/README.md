@@ -9,15 +9,15 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 | 1  | [Most Popular y Item Average Rating](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/pyRecLab_MostPopular.ipynb) | 2      | 15 Agosto       | Álvaro L.    | <a href="https://youtu.be/yP8hamcul60">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                     |
 | 2  | [User KNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Surprise_UKNN.ipynb)                                  | 2      | 15 Agosto       | Álvaro L.    | <a href="https://youtu.be/VDYzKoJwf9w">   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/YouTube_dark_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                           |
 | 3  | [Slope One](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Surprise_SlopeOne.ipynb)                             | 2      | 15 Agosto       | Álvaro L. | <a href="https://youtu.be/KUp94mpxbM0">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                           |
-| 4  | [Item KNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/pyRecLab_iKNN.ipynb)                                  | 3      | 22 Agosto       |  | |
-| 5  | [Funk SVD](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/pyRecLab_FunkSVD.ipynb)                               | 3      | 22 Agosto       |  |  |
-| 6  | [Implicit Feedback y BPR](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Implicit_feedback.ipynb)                     | 4      | 29 Agosto       | |    |
-| 7  | [Content-based (Texto)](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Content_Based_texto.ipynb)				| 5      | 5 Septiembre |  |   |
-| 8  | [Content-based (Imágenes)](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Content_Based_imagenes.ipynb) 		| 5      | 5 Septiembre | |    |
-| 9 | [CF con Deep Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/MultiVAE_Practico.ipynb)   				| 7      | 19 Septiembre | |   |
-| 10 | [Recomendación Secuencial](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/GRU4Rec.ipynb)		  				| 8      | 26 Septiembre | | |
-| 11 | [Reinforcement Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Reinforcement_Learning_Mabwiser.ipynb)   | 9     | 3 Octubre |  |   |
-| 12 | [Deep learning Avanzado (no se responde)](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/HT4Rec.ipynb)                                                                                                                   | 10     | 11 Octubre |   |        |     
+| 4  | [Item KNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/pyRecLab_iKNN.ipynb)                                  | 3      | 22 Agosto       | Florencia F. | |
+| 5  | [Funk SVD](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/pyRecLab_FunkSVD.ipynb)                               | 3      | 22 Agosto       | Florencia F. |  |
+| 6  | [Implicit Feedback y BPR](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Implicit_feedback.ipynb)                     | 4      | 29 Agosto       | Jorge F. |    |
+| 7  | [Content-based (Texto)](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Content_Based_texto.ipynb)				| 5      | 5 Septiembre | Álvaro L. |   |
+| 8  | [Content-based (Imágenes)](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Content_Based_imagenes.ipynb) 		| 5      | 5 Septiembre | Álvaro L. |    |
+| 9 | [CF con Deep Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/MultiVAE_Practico.ipynb)   				| 7      | 19 Septiembre | Jorge F. |   |
+| 10 | [Recomendación Secuencial](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/GRU4Rec.ipynb)		  				| 8      | 26 Septiembre | Pablo M. | |
+| 11 | [Reinforcement Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Reinforcement_Learning_Mabwiser.ipynb)   | 9     | 3 Octubre | Nicolás S.  |   |
+| 12 | [Deep learning Avanzado (no se responde)](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/HT4Rec.ipynb)                                                                                                                   | 10     | 11 Octubre | Pablo M.  |        |     
 
 ## Material 2021
 
