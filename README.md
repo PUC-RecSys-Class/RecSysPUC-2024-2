@@ -177,6 +177,7 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 
 **Sugeridas**  
 * Eva Zangerle and Christine Bauer. 2022. Evaluating Recommender Systems: Survey and Framework. ACM Comput. Surv. Just Accepted (July 2022). https://doi.org/10.1145/3556536
+* Krichene, W., & Rendle, S. (2022). On sampled metrics for item recommendation. Communications of the ACM, 65(7), 75-83. https://dl.acm.org/doi/pdf/10.1145/3535335
 * Herlocker, J. L., Konstan, J. A., Terveen, L. G., & Riedl, J. T. (2004). Evaluating collaborative filtering recommender systems. ACM Transactions on Information Systems (TOIS), 22(1), 5-53.  
 * Cremonesi, P., Koren, Y., & Turrin, R. (2010). Performance of recommender algorithms on top-n recommendation tasks. In Proceedings of the fourth ACM conference on Recommender systems (pp. 39-46). ACM.  
 
