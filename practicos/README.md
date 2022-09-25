@@ -14,7 +14,7 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 | 6  | [Implicit Feedback y BPR](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Implicit_implicit_feedback.ipynb)                     | 4      | 29 Agosto       | Jorge F. |    |
 | 7  | [Content-based (Texto)](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Content_Based_texto.ipynb)				| 5      | 5 Septiembre | Álvaro L. |   |
 | 8  | [Content-based (Imágenes)](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Content_Based_imagenes.ipynb) 		| 5      | 5 Septiembre | Álvaro L. |    |
-| 9 | [CF con Deep Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/MultiVAE_Practico.ipynb)   				| 7      | 19 Septiembre | Jorge F. |   |
+| 9 | [CF con Deep Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/ncf_deep_dive.ipynb)   				| 7      | 19 Septiembre | Jorge F. |   |
 | 10 | [Recomendación Secuencial](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/GRU4Rec.ipynb)		  				| 8      | 26 Septiembre | Pablo M. | |
 | 11 | [Reinforcement Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/Reinforcement_Learning_Mabwiser.ipynb)   | 9     | 3 Octubre | Nicolás S.  |   |
 | 12 | [Deep learning Avanzado (no se responde)](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/practicos/HT4Rec.ipynb)                                                                                                                   | 10     | 11 Octubre | Pablo M.  |        |     
