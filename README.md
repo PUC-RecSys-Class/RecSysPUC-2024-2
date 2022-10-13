@@ -66,6 +66,7 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | 8       | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s9_c2_FATv2.pdf)    | 
 | 9       |  Aprendizaje Activo (Active Learning)                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s10_c1_activelearning_v3.pdf)    |
 | 9       |  Bandits                            | [slides](https://drive.google.com/file/d/1SlDt7UCDrtJBIPUxAMjhqzsjz6uelyIn/view?usp=sharing)    |
+| 10       |  Aprendizaje Reforzado (Rodrigo Toro)| [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s10_c1_aprendizaje_reforzado.pdf)    |
 
 
 
