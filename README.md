@@ -91,9 +91,9 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 
 | Semana  | Paper            | Link slide(s) | Link video | Conferencia | Grupo |
 |:--------|:-----------------|:-------------:|:----------:|:-------------:|:-------------:|
-|11       |Drug Discovery as a Recommendation Problem: Challenges and Complexities in Biological Decisions|[slides]|[video]|[Recsys 2021](https://dl.acm.org/doi/abs/10.1145/3460231.3474598)| 6 |
-|11       |Exploiting Negative Preference in Content-based Music Recommendation with Contrastive Learning|[slides]|[video]|[Recsys 2022](https://dl.acm.org/doi/10.1145/3523227.3546768)| 33 |
-|11       |Tops, Bottoms, and Shoes: Building Capsule Wardrobes via Cross-Attention Tensor Network|[slides]|[video]|[Recsys 2021](https://dl.acm.org/doi/proceedings/10.1145/3460231)| 14 |
+|11       |Drug Discovery as a Recommendation Problem: Challenges and Complexities in Biological Decisions|[slides](https://drive.google.com/file/d/1MKlZtJU_Niz_Iovl1JjRVwBfsk3T7zD7/view?usp=sharing)|[video]|[Recsys 2021](https://dl.acm.org/doi/abs/10.1145/3460231.3474598)| 12 |
+|11       |Exploiting Negative Preference in Content-based Music Recommendation with Contrastive Learning|[slides](https://drive.google.com/file/d/1V3FTdMXCibK38Fy6b7DsPlYmodf4m4aw/view?usp=sharing)|[video](https://drive.google.com/file/d/1tGMbgECdtrFrVHbEXnhAlE3OpOnpTFSc/view?usp=sharing)|[Recsys 2022](https://dl.acm.org/doi/10.1145/3523227.3546768)| 2 |
+|11       |Tops, Bottoms, and Shoes: Building Capsule Wardrobes via Cross-Attention Tensor Network|[slides](https://drive.google.com/file/d/1VXjc4qlFjUazMAJ5C8GmFduGC0GokNRZ/view?usp=sharing)|[video]|[Recsys 2021](https://dl.acm.org/doi/proceedings/10.1145/3460231)| 14 |
 |12       |BRUCE: Bundle Recommendation Using Contextualized item Embeddings|[slides]|[video]|[Recsys 2022](https://dl.acm.org/doi/pdf/10.1145/3523227.3546754)| 35 |
 |12       |Post Processing Recommender Systems with Knowledge Graphs for Recency, Popularity, and Diversity of Explanations|[slides]|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3532041)| 7 |
 |12       |Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective |[slides]|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3531714)| 23 |
