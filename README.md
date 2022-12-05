@@ -4,7 +4,7 @@ Agosto-Diciembre 2022
 **AVISOS**
 ¡Estamos actualizando el sitio web! Las clases se inician el martes 9 de agosto a las 11:30am en la sala B24. ¡Nos vemos!
 
-**Link formulario** para evaluar posters: [formulario posters](https://docs.google.com/forms/d/e/1FAIpQLSdE8k7BTraa1s0LK5oBQbozrx3w_P3Rw1SxsT1cgH9fmuy4Rg/viewform)
+**Link formulario** para evaluar posters: [formulario posters](https://forms.gle/h6YyTB6XsfdKZJfi6)
 
 
 
