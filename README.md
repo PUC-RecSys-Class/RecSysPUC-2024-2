@@ -24,7 +24,7 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci�
 
 **Evaluaciones**:
 
-*En proceso de actualización* Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/19U5aaiUR1CE6lttf3lfzspsR37kwERRfn_zJ6m54MwE/edit#slide=id.p).
+*En proceso de actualización* Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/1KW1cXwXInXQD7GXol2KjriPIaZFZLHoyQuB3Fbl0BmA/edit?usp=sharing).
 
 **Software**: [Suprise](http://surpriselib.com/), [Implicit](https://github.com/benfred/implicit) y [pyRecLab](https://github.com/gasevi/pyreclab/).
 
