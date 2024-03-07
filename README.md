@@ -1,5 +1,5 @@
 # IIC3633 Sistemas Recomendadores
-Marzo-Junio 2024 2022
+Marzo-Junio 2024
 
 **AVISOS**
 ¡Estamos actualizando el sitio web! Las clases se inician el jueves 7 de marzo a las 11:00am en la sala H3. ¡Nos vemos!
@@ -13,7 +13,8 @@ Marzo-Junio 2024 2022
  
 **Institución**: Pontificia Universidad Católica de Chile
 
-**Horario**: Martes y Jueves, Módulo 3 (11:00 a 12:10).
+**Horario cátedra**: Martes y Jueves, Módulo 3, sala H3 (11:00 a 12:10).
+**Horario ayudantía**: Lunes, Módulo 5, sala BC22 (14:50 a 16:00).
 
 Programa IIC 3633, 1er Semestre 2024: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
 
@@ -23,7 +24,7 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci�
 
 **Evaluaciones**:
 
-*En procesos de actualización* Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/19U5aaiUR1CE6lttf3lfzspsR37kwERRfn_zJ6m54MwE/edit#slide=id.p).
+*En proceso de actualización* Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/19U5aaiUR1CE6lttf3lfzspsR37kwERRfn_zJ6m54MwE/edit#slide=id.p).
 
 **Software**: [Suprise](http://surpriselib.com/), [Implicit](https://github.com/benfred/implicit) y [pyRecLab](https://github.com/gasevi/pyreclab/).
 
