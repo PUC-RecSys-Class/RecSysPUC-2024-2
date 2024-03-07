@@ -38,14 +38,14 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci�
 | Semana  | Tema             | link slide(s) | 
 |:--------|:-----------------|:-------------:|
 | 1       | Introducción                                          | x    | 
-| 2       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | 
-| 2       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | 
-| 2       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s1-c2-SlopeOne.pdf)    | 
-| 2       | Item-based FC                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s2_c1-IBCF.pdf)    | 
-| 3       | Factorización Matricial: FunkSVD                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s2_c2-Factorizacion_matricial.pdf)    |
-| 3       | Implicit Feedback CF                                  | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s3_c1-Implicit-feedback.pdf)    |
-| 3       | Bayesian Personalized Ranking (BPR)                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s3_c2-BPR.pdf)    |
-| 4       | Evaluación: metricas de error y ranking               | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s4_c1-metricas.pdf)    | [video](https://drive.google.com/file/d/1Rr_-3HF4Bkal_RV1036A9PjwZX-fAcYj/view?usp=sharing)    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
+| 2       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | 
+| 2       | User-based FC con clustering                          | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | 
+| 2       | Pendiente Uno                                         | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s1-c2-SlopeOne.pdf)    | 
+| 2       | Item-based FC                                         | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s2_c1-IBCF.pdf)    | 
+| 3       | Factorización Matricial: FunkSVD                      | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s2_c2-Factorizacion_matricial.pdf)    |
+| 3       | Implicit Feedback CF                                  | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s3_c1-Implicit-feedback.pdf)    |
+| 3       | Bayesian Personalized Ranking (BPR)                   | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s3_c2-BPR.pdf)    |
+| 4       | Evaluación: metricas de error y ranking               | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s4_c1-metricas.pdf)    | [video](https://drive.google.com/file/d/1Rr_-3HF4Bkal_RV1036A9PjwZX-fAcYj/view?usp=sharing)    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
 | 4       | Evaluación II: Cobertura, diversidad, novedad                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s4_c1-metricas.pdf)    | 
 | 4       | Evaluación III: Tests estadísticos                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s4_c2-tests_estadisticos.pdf)     |
 | 5       | Recomendación basada en contenido 1                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s5_c1-content.pdf)    | 
