@@ -1,28 +1,21 @@
 # IIC3633 Sistemas Recomendadores
-Agosto-Diciembre 2022
+Marzo-Junio 2024 2022
 
 **AVISOS**
-¡Estamos actualizando el sitio web! Las clases se inician el martes 9 de agosto a las 11:30am en la sala B24. ¡Nos vemos!
-
-**Link formulario** para evaluar posters: [formulario posters](https://forms.gle/h6YyTB6XsfdKZJfi6)
-
-
+¡Estamos actualizando el sitio web! Las clases se inician el jueves 7 de marzo a las 11:00am en la sala H3. ¡Nos vemos!
 
 ### Equipo Docente e Información Administrativa
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
 
 **Ayudantes**:  
-[Alvaro Labarca](#), Estudiante de Magister, en Ciencia de la Computación PUC Chile.  
-[Jorge Pérez Facuse](#), Estudiante de Magister, en Ciencia de la Computación PUC Chile.  
-[Florencia Ferrer](#), Estudiante de Ingeniería, en Ciencia de la Computación PUC Chile.  
-[Nicolás Sumonte](#), Estudiante de Ingeniería, en IMC PUC Chile.  
+[Pablo Messina](#), Estudiante de Doctorado, Ciencia de la Computación PUC Chile.  
+[Carlos Muñoz](#), Estudiante de Doctorado, Ciencia de la Computación PUC Chile.  
  
-
 **Institución**: Pontificia Universidad Católica de Chile
 
-**Horario**: Martes y Jueves, Módulo 3 (11:30 a 12:50).
+**Horario**: Martes y Jueves, Módulo 3 (11:00 a 12:10).
 
-Programa IIC 3633, 2do Semestre 2022: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
+Programa IIC 3633, 1er Semestre 2024: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
 
 ### Descripción del Curso
 
@@ -30,12 +23,9 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci�
 
 **Evaluaciones**:
 
-Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/19U5aaiUR1CE6lttf3lfzspsR37kwERRfn_zJ6m54MwE/edit#slide=id.p).
+*En procesos de actualización* Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/19U5aaiUR1CE6lttf3lfzspsR37kwERRfn_zJ6m54MwE/edit#slide=id.p).
 
-
-**Software**: [Suprise](http://surpriselib.com/) y [pyRecLab](https://github.com/gasevi/pyreclab/).
-
-La componente práctica de este curso se enseña a través del uso de pyRecLab desarrollado por Gabriel Sepúlveda (ex-alumno de este curso), biblioteca de software para desarrollo de sistemas recomendadores en Python.
+**Software**: [Suprise](http://surpriselib.com/), [Implicit](https://github.com/benfred/implicit) y [pyRecLab](https://github.com/gasevi/pyreclab/).
 
 **Contenido**:
 
@@ -47,11 +37,11 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | Semana  | Tema             | link slide(s) | 
 |:--------|:-----------------|:-------------:|
 | 1       | Introducción                                          | x    | 
-| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | 
-| 1       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | 
+| 2       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | 
+| 2       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | 
 | 2       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s1-c2-SlopeOne.pdf)    | 
 | 2       | Item-based FC                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s2_c1-IBCF.pdf)    | 
-| 2       | Factorización Matricial: FunkSVD                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s2_c2-Factorizacion_matricial.pdf)    |
+| 3       | Factorización Matricial: FunkSVD                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s2_c2-Factorizacion_matricial.pdf)    |
 | 3       | Implicit Feedback CF                                  | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s3_c1-Implicit-feedback.pdf)    |
 | 3       | Bayesian Personalized Ranking (BPR)                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s3_c2-BPR.pdf)    |
 | 4       | Evaluación: metricas de error y ranking               | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s4_c1-metricas.pdf)    | [video](https://drive.google.com/file/d/1Rr_-3HF4Bkal_RV1036A9PjwZX-fAcYj/view?usp=sharing)    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
@@ -69,7 +59,7 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | 8       | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s9_c2_FATv2.pdf)    | 
 | 9       |  Aprendizaje Activo (Active Learning)                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s10_c1_activelearning_v3.pdf)    |
 | 9       |  Bandits                            | [slides](https://drive.google.com/file/d/1SlDt7UCDrtJBIPUxAMjhqzsjz6uelyIn/view?usp=sharing)    |
-| 10       |  Aprendizaje Reforzado (Rodrigo Toro)| [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s10_c1_aprendizaje_reforzado.pdf)    |
+| 10       |  Aprendizaje Reforzado | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s10_c1_aprendizaje_reforzado.pdf)    |
 
 
 
@@ -86,7 +76,7 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 
 ### Parte II del curso: seminario
 
-A partir de noviembre el curso toma modalidad seminario, los alumnos hacen presentaciones de los siguientes papers (La lista de papers aun no será subida, la actualizaremos y avisaremos cuando corresponda).
+A partir de Junio el curso toma modalidad seminario, los alumnos hacen presentaciones de los siguientes papers (La lista de papers aun no será subida, la actualizaremos y avisaremos cuando corresponda).
 
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
@@ -97,7 +87,7 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 |11       |Drug Discovery as a Recommendation Problem: Challenges and Complexities in Biological Decisions|[slides](https://drive.google.com/file/d/1MKlZtJU_Niz_Iovl1JjRVwBfsk3T7zD7/view?usp=sharing)|[video]|[Recsys 2021](https://dl.acm.org/doi/abs/10.1145/3460231.3474598)| 12 |
 |11       |Exploiting Negative Preference in Content-based Music Recommendation with Contrastive Learning|[slides](https://drive.google.com/file/d/1V3FTdMXCibK38Fy6b7DsPlYmodf4m4aw/view?usp=sharing)|[video](https://drive.google.com/file/d/1tGMbgECdtrFrVHbEXnhAlE3OpOnpTFSc/view?usp=sharing)|[Recsys 2022](https://dl.acm.org/doi/10.1145/3523227.3546768)| 2 |
 |11       |Tops, Bottoms, and Shoes: Building Capsule Wardrobes via Cross-Attention Tensor Network|[slides](https://drive.google.com/file/d/1VXjc4qlFjUazMAJ5C8GmFduGC0GokNRZ/view?usp=sharing)|[video]|[Recsys 2021](https://dl.acm.org/doi/proceedings/10.1145/3460231)| 14 |
-|12       |BRUCE: Bundle Recommendation Using Contextualized item Embeddings|[slides](https://drive.google.com/file/d/1D6ezymM34rJ9Y-Cod197cWjNMxx7pOUO/view?usp=sharing)|[video]|[Recsys 2022](https://dl.acm.org/doi/pdf/10.1145/3523227.3546754)| 6 |
+<!-- |12       |BRUCE: Bundle Recommendation Using Contextualized item Embeddings|[slides](https://drive.google.com/file/d/1D6ezymM34rJ9Y-Cod197cWjNMxx7pOUO/view?usp=sharing)|[video]|[Recsys 2022](https://dl.acm.org/doi/pdf/10.1145/3523227.3546754)| 6 |
 |12       |Post Processing Recommender Systems with Knowledge Graphs for Recency, Popularity, and Diversity of Explanations|[slides](https://drive.google.com/file/d/1qGOvSLPj6cbNqYye7NhvB2NPR6HWG4ci/view?usp=sharing)|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3532041)| 7 |
 |12       |Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective |[slides](https://drive.google.com/file/d/1j1zZscC4-bzV_dScXNLNBZ7aUlKUAfsE/view?usp=share_link)|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3531714)| 23 |
 |12       |Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher|[slides](https://drive.google.com/file/d/1pQsQgO9Y8nqZ2wvWqaQ3JL_qYwwkJq_q/view?usp=share_link)|[video]|[Recsys 2021](https://dl.acm.org/doi/abs/10.1145/3460231.3474273)| 16 |
@@ -110,6 +100,7 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 |14       |The Dual Echo Chamber: Modeling Social Media Polarization for Interventional Recommending|[slides](https://drive.google.com/file/d/1vY-0nPJYPe6nczZKsHLMKxLPZaW57bSo/view?usp=share_link)|[video](https://drive.google.com/file/d/1X_ITTXqODD1729QA79YOXH0402NbXsE4/view?usp=share_link)|[Recsys 2021](https://dl.acm.org/doi/10.1145/3460231.3474261)| 1 |
 |14       |S-Walk: Accurate and Scalable Session-based Recommendation with Random Walks|[slides](https://drive.google.com/file/d/1PhgTWz6mLS3SBY3DHd5xZXBtn3kh23sW/view?usp=share_link)|[video](https://drive.google.com/file/d/1Hh5EAlEHvpH6atB2ljSRIzN2wZbAfxJA/view?usp=share_link)|[WSDM 2022](https://dl.acm.org/doi/10.1145/3488560.3498464)| 28 |
 |14       |A User-Centered Investigation of Personal Music Tours|[slides](https://drive.google.com/file/d/1acjxQRN3XQKa4nj9wDMsZ5l5aBQjHgM2/view?usp=share_link)|[video](https://drive.google.com/file/d/10p9eKHEBAexG_Od1Wb2CWeNl0bG1wzE2/view?usp=share_link)|[RecSys 2022](https://dl.acm.org/doi/10.1145/3523227.3546776)| 30 |
+-->
 
 ### Parte III del curso: Proyectos finales
 
@@ -131,7 +122,9 @@ Este curso adscribe el Código de Honor establecido por la Escuela de Ingenierí
 
 ### Evaluaciones
 
-Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/19U5aaiUR1CE6lttf3lfzspsR37kwERRfn_zJ6m54MwE/edit#slide=id.p).
+** En proceso de actualizacion** : Detalles de las evaluaciones en [esta presentacion](#) 
+
+<!-- Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/19U5aaiUR1CE6lttf3lfzspsR37kwERRfn_zJ6m54MwE/edit#slide=id.p).-->
 
 **Tarea 1**
 
