@@ -13,7 +13,7 @@ Marzo-Junio 2024
  
 **Institución**: Pontificia Universidad Católica de Chile
 
-**Horario cátedra**: Martes y Jueves, Módulo 3, sala H3 (11:00 a 12:10).
+**Horario cátedra**: Martes y Jueves, Módulo 3, sala H3 (11:00 a 12:10).<br/>
 **Horario ayudantía**: Lunes, Módulo 5, sala BC22 (14:50 a 16:00).
 
 Programa IIC 3633, 1er Semestre 2024: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
