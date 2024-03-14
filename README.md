@@ -147,9 +147,9 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 ## Planificación general (sujeta a actualización)
 
-(actualizada el 12 de marzo de 2024)
+(actualizada el 14 de marzo de 2024)
 
-![Calendario 2024-1](https://user-images.githubusercontent.com/208111/183686416-4ff6d9f0-5e80-42e0-97b4-40df5d92ba0b.png)
+![Calendario 2024-1](https://github.com/denisparra/RecSysPUC-2024/assets/208111/a0719944-b266-44b7-b19d-459609314714)
 
 <!--[Calendario 2022-2](https://user-images.githubusercontent.com/53876461/183516596-1f981762-93f4-4892-aff2-7818ad5c1ed2.png)-->
 
@@ -184,7 +184,7 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 * Hu, Y., Koren, Y., & Volinsky, C. (2008). Collaborative filtering for implicit feedback datasets. In Data Mining, 2008. ICDM’08. Eighth IEEE International Conference on (pp. 263-272). IEEE.  
 * Takács, G., Pilászy, I., Németh, B., & Tikk, D. (2009). Scalable collaborative filtering approaches for large recommender systems. Journal of machine learning research, 10(Mar), 623-656.  
 * Rendle, S., Freudenthaler, C., Gantner, Z., & Schmidt-Thieme, L. (2009). BPR: Bayesian personalized ranking from implicit feedback. In Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence (pp. 452-461). AUAI Press.
-* * Koren, Y., Bell, R., & Volinsky, C. (2009). Matrix factorization techniques for recommender systems. Computer, 42(8), 30-37. [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.3234&rep=rep1&type=pdf)
+* Koren, Y., Bell, R., & Volinsky, C. (2009). Matrix factorization techniques for recommender systems. Computer, 42(8), 30-37. [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.3234&rep=rep1&type=pdf)
 * Pan, R., Zhou, Y., Cao, B., Liu, N. N., Lukose, R., Scholz, M., & Yang, Q. (2008). One-class collaborative filtering. In 2008 Eighth IEEE International Conference on Data Mining (pp. 502-511). IEEE. En este artículo aparecen la derivación y reglas de actualización de los parámetros así como las nociones de AMAN y AMAU.
 * Jannach, D., Lerche, L., & Zanker, M. (2018). Recommending based on implicit feedback. In Social Information Access (pp. 510-569). Springer, Cham.
 * Srebro, N., & Jaakkola, T. (2003). Weighted low-rank approximations. In Proceedings of the 20th International Conference on Machine Learning (ICML-03) (pp. 720-727). Artículo citado por Pan et al. (2008) indicando detalles de la versión no regularizada que inspira OCCF.
