@@ -2,8 +2,8 @@
 Marzo-Junio 2024
 
 ## AVISOS
--- (18/03) Tarea 1 liberada, puedes encontrar el enunciado en [este link](https://github.com/denisparra/RecSysPUC-2024/blob/master/tareas/Tarea_1_RecSys_2024.pdf)
--- (12/03) Calendario de actividades del curso actualizado
+* (18/03) Tarea 1 liberada, puedes encontrar el enunciado en [este link](https://github.com/denisparra/RecSysPUC-2024/blob/master/tareas/Tarea_1_RecSys_2024.pdf)
+* (12/03) Calendario de actividades del curso actualizado
 
 ### Equipo Docente e Información Administrativa
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
