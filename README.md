@@ -1,10 +1,6 @@
 # IIC3633 Sistemas Recomendadores
 Marzo-Junio 2024
 
-## AVISOS
-* (18/03) Tarea 1 liberada, puedes encontrar el enunciado en [este link](https://github.com/denisparra/RecSysPUC-2024/blob/master/tareas/Tarea_1_RecSys_2024.pdf)
-* (12/03) Calendario de actividades del curso actualizado
-
 ### Equipo Docente e Información Administrativa
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
 
@@ -18,6 +14,10 @@ Marzo-Junio 2024
 **Horario ayudantía**: Lunes, Módulo 5, sala BC22 (14:50 a 16:00).
 
 Programa IIC 3633, 1er Semestre 2024: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
+
+### AVISOS
+* (18/03) Tarea 1 liberada, puedes encontrar el enunciado en [este link](https://github.com/denisparra/RecSysPUC-2024/blob/master/tareas/Tarea_1_RecSys_2024.pdf)
+* (12/03) Calendario de actividades del curso actualizado
 
 ### Descripción del Curso
 
