@@ -1,4 +1,13 @@
 ## Prácticos Sistemas Recomendadores IIC3633
+## Material 2024
+
+A continuación encontrarán la lista de los prácticos que deberán realizar durante este semestre.
+
+| #  | Práctico                                                                                                                                  | Semana | Fecha Ayudantía | Encargad@    | Video                                                                                                                                                                                             |
+|----|-------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2  | [FunkSVD](https://github.com/denisparra/RecSysPUC-2024/blob/master/practicos/pyRecLab_FunkSVD.ipynb)                             | 4      | 25 Agosto       | Pablo M. | |
+| 3  | [ALS y BPR](https://github.com/denisparra/RecSysPUC-2024/blob/master/practicos/Implicit_implicit_feedback.ipynb)                       | 4      | 25 Agosto       | Pablo M. | |
+
 
 ## Material 2022
 
