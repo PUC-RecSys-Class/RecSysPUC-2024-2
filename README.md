@@ -47,19 +47,19 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci�
 | 3       | Implicit Feedback CF                                  | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s3_c1-Implicit-feedback.pdf)    |
 | 3       | Bayesian Personalized Ranking (BPR)                   | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s3_c2-BPR.pdf)    |
 | 4       | Evaluación: metricas de error y ranking               | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s4_c1-metricas.pdf)    | [video](https://drive.google.com/file/d/1Rr_-3HF4Bkal_RV1036A9PjwZX-fAcYj/view?usp=sharing)    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
-| 4       | Evaluación II: Cobertura, diversidad, novedad                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2024/blob/master/clases/s4_c1-metricas.pdf)    | 
-| 4       | Evaluación III: Tests estadísticos                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2024/blob/master/clases/s4_c2-tests_estadisticos.pdf)     |
-| 5       | Recomendación basada en contenido 1                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2024/blob/master/clases/s5_c1-content.pdf)    | 
-| 5       | Recomendación basada en contenido 2                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2024/blob/master/clases/s5_c2-content.pdf)    | 
-| 6       | Recomendación híbrida                                 | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2024/blob/master/clases/s6_c1-hibridos.pdf)    | 
-| 6       | Recomendación por ensambles                           | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2024/blob/master/clases/s6_c2_p3-blending_ensemble.pdf)    |
-| 6       | Recomendación basada en contexto                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2024/blob/master/clases/s6_c1-contexto.pdf)    |
-| 6       | Máquinas de Factorización                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2024/blob/master/clases/s6_c2_p2-FMachines.pdf)    | 
-| 7       | Deep Learning I: Intro                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2024/blob/master/clases/s7_c1_deep_learning.pdf)    | 
-| 7       | Deep Learning II: Tres proyectos                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/clases/s7_c2_deep_learning_s.pdf)    |
-| 8       | SR Centrados en el Usuario                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2024/blob/master/clases/s9_c1_usercentric.pdf)    | 
-| 8       | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2024/blob/master/clases/s9_c2_FATv2.pdf)    | 
-| 9       |  Aprendizaje Activo (Active Learning)                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2024/blob/master/clases/s10_c1_activelearning_v3.pdf)    |
+| 4       | Evaluación II: Cobertura, diversidad, novedad                        | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s4_c1-metricas.pdf)    | 
+| 4       | Evaluación III: Tests estadísticos                        | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s4_c2-tests_estadisticos.pdf)     |
+| 5       | Recomendación basada en contenido 1                   | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s5_c1-content.pdf)    | 
+| 5       | Recomendación basada en contenido 2                   | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s5_c2-content.pdf)    | 
+| 6       | Recomendación híbrida                                 | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s6_c1-hibridos.pdf)    | 
+| 6       | Recomendación por ensambles                           | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s6_c2_p3-blending_ensemble.pdf)    |
+| 6       | Recomendación basada en contexto                      | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s6_c1-contexto.pdf)    |
+| 6       | Máquinas de Factorización                             | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s6_c2_p2-FMachines.pdf)    | 
+| 7       | Deep Learning I: Intro                             |  [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s7_c1_deep_learning.pdf)    | 
+| 7       | Deep Learning II: Tres proyectos                             |  [slides](https://github.com/denisparra/RecSysPUC-2021/blob/master/clases/s7_c2_deep_learning_s.pdf)    |
+| 8       | SR Centrados en el Usuario                             | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s9_c1_usercentric.pdf)    | 
+| 8       | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s9_c2_FATv2.pdf)    | 
+| 9       |  Aprendizaje Activo (Active Learning)                             | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s10_c1_activelearning_v3.pdf)    |
 | 9       |  Bandits                            | [slides](https://drive.google.com/file/d/1SlDt7UCDrtJBIPUxAMjhqzsjz6uelyIn/view?usp=sharing)    |
 | 10       |  Aprendizaje Reforzado | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s10_c1_aprendizaje_reforzado.pdf)    |
 
