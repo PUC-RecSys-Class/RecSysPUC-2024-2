@@ -149,9 +149,11 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 ## Planificación general (sujeta a actualización)
 
-(actualizada el 14 de marzo de 2024)
+(actualizada el 1 de abril de 2024)
 
-![Calendario 2024-1](https://github.com/denisparra/RecSysPUC-2024/assets/208111/a0719944-b266-44b7-b19d-459609314714)
+![Calendario 2024-1](https://github.com/denisparra/RecSysPUC-2024/assets/208111/635a05df-4d4d-4e4d-b06d-2699bcbd19be)
+
+<!--[Calendario 2024-1](https://github.com/denisparra/RecSysPUC-2024/assets/208111/a0719944-b266-44b7-b19d-459609314714)-->
 
 <!--[Calendario 2022-2](https://user-images.githubusercontent.com/53876461/183516596-1f981762-93f4-4892-aff2-7818ad5c1ed2.png)-->
 
