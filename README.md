@@ -49,7 +49,7 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci�
 | 4       | Evaluación: metricas de error y ranking               | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s4_c1-metricas.pdf)    | [video](https://drive.google.com/file/d/1Rr_-3HF4Bkal_RV1036A9PjwZX-fAcYj/view?usp=sharing)    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
 | 4       | Evaluación II: Cobertura, diversidad, novedad                        | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s4_c1-metricas.pdf)    | 
 | 4       | Evaluación III: Tests estadísticos                        | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s4_c2-tests_estadisticos.pdf)     |
-| 5       | Recomendación basada en contenido 1                   | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s5_c1-content.pdf)    | 
+| 5       | Recomendación basada en contenido 1                   | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s5_c1-content-2024.pdf)    | 
 | 5       | Recomendación basada en contenido 2                   | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s5_c2-content.pdf)    | 
 | 6       | Recomendación híbrida                                 | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s6_c1-hibridos.pdf)    | 
 | 6       | Recomendación por ensambles                           | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s6_c2_p3-blending_ensemble.pdf)    |
