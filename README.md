@@ -19,7 +19,7 @@ Programa IIC 3633, 1er Semestre 2024: [pdf](https://dparra.sitios.ing.uc.cl/pdfs
 * (22/04) Ultimas 3 lecturas para Perusall liberadas (revisar en perusall)
   ![image](https://github.com/denisparra/RecSysPUC-2024/assets/208111/bfe276d1-72fd-4b16-ac1e-c2ab146ed537)
 * (22/04) Lista de (papers para seminario liberado)(https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/Ea5TCodgrDJJo9U-I3w8GxEBOeMIE8cmIdXirIh8lR9z8g?e=gCzsay) - elegir hasta el Vi 26/04, propuesta se entrega el Vi 10/05
-* (16/04) Anuncio de [proyectos finales liberado]() -  indicar grupo hasta el Mi 24/04
+* (16/04) Enunciado de [proyectos finales liberado](https://github.com/denisparra/RecSysPUC-2024/blob/master/proyecto/Enunciado_Proyecto_Final_RecSys_2024_1.pdf) -  indicar grupo hasta el Mi 24/04
 * (18/03) Tarea 1 liberada, puedes encontrar el enunciado en [este link](https://github.com/denisparra/RecSysPUC-2024/blob/master/tareas/Tarea_1_RecSys_2024.pdf)
 * (12/03) Calendario de actividades del curso actualizado
 
