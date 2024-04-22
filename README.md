@@ -16,6 +16,10 @@ Marzo-Junio 2024
 Programa IIC 3633, 1er Semestre 2024: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
 
 ### AVISOS
+* (22/04) Ultimas 3 lecturas para Perusall liberadas (revisar en perusall)
+  ![image](https://github.com/denisparra/RecSysPUC-2024/assets/208111/bfe276d1-72fd-4b16-ac1e-c2ab146ed537)
+* (22/04) Lista de (papers para seminario liberado)(https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/Ea5TCodgrDJJo9U-I3w8GxEBOeMIE8cmIdXirIh8lR9z8g?e=gCzsay) - elegir hasta el Vi 26/04, propuesta se entrega el Vi 10/05
+* (16/04) Anuncio de [proyectos finales liberado]() -  indicar grupo hasta el Mi 24/04
 * (18/03) Tarea 1 liberada, puedes encontrar el enunciado en [este link](https://github.com/denisparra/RecSysPUC-2024/blob/master/tareas/Tarea_1_RecSys_2024.pdf)
 * (12/03) Calendario de actividades del curso actualizado
 
@@ -149,9 +153,12 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 ## Planificación general (sujeta a actualización)
 
-(actualizada el 1 de abril de 2024)
+(actualizada el 22 de abril de 2024)
 
-![Calendario 2024-1](https://github.com/denisparra/RecSysPUC-2024/assets/208111/635a05df-4d4d-4e4d-b06d-2699bcbd19be)
+![image](https://github.com/denisparra/RecSysPUC-2024/assets/208111/ce045b27-b11c-40d2-bbe2-7ecfc66d2876)
+
+
+<!--[Calendario 2024-1](https://github.com/denisparra/RecSysPUC-2024/assets/208111/635a05df-4d4d-4e4d-b06d-2699bcbd19be)-->
 
 <!--[Calendario 2024-1](https://github.com/denisparra/RecSysPUC-2024/assets/208111/a0719944-b266-44b7-b19d-459609314714)-->
 
