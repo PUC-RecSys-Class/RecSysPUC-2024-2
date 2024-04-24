@@ -5,13 +5,13 @@ Marzo-Junio 2024
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
 
 **Ayudantes**:  
-[Pablo Messina](#), Estudiante de Doctorado, Ciencia de la Computación PUC Chile.  
+[Pablo Messina](#), Estudiante de Doctorado, Ciencia de la Computación PUC Chile.  <br/>
 [Carlos Muñoz](#), Estudiante de Doctorado, Ciencia de la Computación PUC Chile.  
  
 **Institución**: Pontificia Universidad Católica de Chile
 
 **Horario cátedra**: Martes y Jueves, Módulo 3, sala H3 (11:00 a 12:10).<br/>
-**Horario ayudantía**: Lunes, Módulo 5, sala BC22 (14:50 a 16:00).
+**Horario ayudantía**: Lunes, Módulo 5, sala BC22 (14:50 a 16:00).<br/>
 **Examen**: Sabado, 6 de julio (sesión de posters)
 
 Programa IIC 3633, 1er Semestre 2024: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
