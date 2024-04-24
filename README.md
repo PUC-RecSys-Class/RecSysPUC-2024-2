@@ -12,6 +12,7 @@ Marzo-Junio 2024
 
 **Horario cátedra**: Martes y Jueves, Módulo 3, sala H3 (11:00 a 12:10).<br/>
 **Horario ayudantía**: Lunes, Módulo 5, sala BC22 (14:50 a 16:00).
+**Examen**: Sabado, 6 de julio (sesión de posters)
 
 Programa IIC 3633, 1er Semestre 2024: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
 
@@ -153,10 +154,9 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 ## Planificación general (sujeta a actualización)
 
-(actualizada el 22 de abril de 2024)
+(actualizada el 24 de abril de 2024)
 
-![image](https://github.com/denisparra/RecSysPUC-2024/assets/208111/ce045b27-b11c-40d2-bbe2-7ecfc66d2876)
-
+![image](https://github.com/denisparra/RecSysPUC-2024/assets/208111/9b9462be-0121-4a83-bf09-8d35a0838e1e)
 
 <!--[Calendario 2024-1](https://github.com/denisparra/RecSysPUC-2024/assets/208111/635a05df-4d4d-4e4d-b06d-2699bcbd19be)-->
 
