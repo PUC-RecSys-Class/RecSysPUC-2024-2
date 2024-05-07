@@ -62,11 +62,11 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci�
 | 6       | Máquinas de Factorización                             | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s6_c2_p2-FMachines.pdf)    | 
 | 7       | Deep Learning I: Intro                             |  [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s7_c1_deep_learning.pdf)    | 
 | 7       | Deep Learning II: Tres proyectos                             |  [slides](https://github.com/denisparra/RecSysPUC-2021/blob/master/clases/s7_c2_deep_learning_s.pdf)    |
-| 8       | SR Centrados en el Usuario                             | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s9_c1_usercentric.pdf)    | 
-| 8       | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s9_c2_FATv2.pdf)    | 
-| 9       |  Aprendizaje Activo (Active Learning)                             | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s10_c1_activelearning_v3.pdf)    |
-| 9       |  Bandits                            | [slides](https://drive.google.com/file/d/1SlDt7UCDrtJBIPUxAMjhqzsjz6uelyIn/view?usp=sharing)    |
+| 8-9       |  Bandits                            | [slides](https://drive.google.com/file/d/1SlDt7UCDrtJBIPUxAMjhqzsjz6uelyIn/view?usp=sharing)    |
+| 10       |  Recomendación de secuencias | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s7_c2_secu_deep_learning.pdf)    |
 | 10       |  Aprendizaje Reforzado | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s10_c1_aprendizaje_reforzado.pdf)    |
+| 11       | SR Centrados en el Usuario                             | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s9_c1_usercentric.pdf)    | 
+| 11      | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s9_c2_FATv2.pdf)    | 
 
 
 
