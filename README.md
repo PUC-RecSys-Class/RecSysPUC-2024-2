@@ -65,7 +65,8 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci√
 | 8-9       |  Bandits                            | [slides](https://drive.google.com/file/d/1SlDt7UCDrtJBIPUxAMjhqzsjz6uelyIn/view?usp=sharing)    |
 | 10       |  Recomendaci√≥n de secuencias | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s7_c2_secu_deep_learning.pdf)    |
 | 10       |  Aprendizaje Reforzado | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s10_c1_aprendizaje_reforzado.pdf)    |
-| 11       | SR Centrados en el Usuario                             | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s9_c1_usercentric.pdf)    | 
+| 11       |  GNNs para SR | https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s11_c1_gnn_for_recsys.pdf |
+<!--| 11       | SR Centrados en el Usuario                             | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s9_c1_usercentric.pdf)    | -->
 | 11      | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s9_c2_FATv2.pdf)    | 
 
 
