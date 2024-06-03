@@ -68,6 +68,7 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci√
 | 10       |  Aprendizaje Reforzado | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s10_c1_aprendizaje_reforzado.pdf)    |
 | 11       |  GNNs para SR | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s11_c1_gnn_for_recsys.pdf) |
 | 11      | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s9_c2_FATv2.pdf)    | 
+| 12       | 10 problemas en Sistemas de Recomendaci√≥n                                     |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s12_c2_10bigproblems-recsys-small.pdf)       | 
 
 <!--| 11       | SR Centrados en el Usuario                             | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s9_c1_usercentric.pdf)    | -->
 
@@ -91,11 +92,21 @@ A partir de Junio el curso toma modalidad seminario, los alumnos hacen presentac
 <!-- Bold tick : &#10004 -->
 
 
-| Semana  | Paper            | Link slide(s) | Link video | Conferencia | Grupo |
-|:--------|:-----------------|:-------------:|:----------:|:-------------:|:-------------:|
-|11       |Drug Discovery as a Recommendation Problem: Challenges and Complexities in Biological Decisions|[slides](https://drive.google.com/file/d/1MKlZtJU_Niz_Iovl1JjRVwBfsk3T7zD7/view?usp=sharing)|[video]|[Recsys 2021](https://dl.acm.org/doi/abs/10.1145/3460231.3474598)| 12 |
-|11       |Exploiting Negative Preference in Content-based Music Recommendation with Contrastive Learning|[slides](https://drive.google.com/file/d/1V3FTdMXCibK38Fy6b7DsPlYmodf4m4aw/view?usp=sharing)|[video](https://drive.google.com/file/d/1tGMbgECdtrFrVHbEXnhAlE3OpOnpTFSc/view?usp=sharing)|[Recsys 2022](https://dl.acm.org/doi/10.1145/3523227.3546768)| 2 |
-|11       |Tops, Bottoms, and Shoes: Building Capsule Wardrobes via Cross-Attention Tensor Network|[slides](https://drive.google.com/file/d/1VXjc4qlFjUazMAJ5C8GmFduGC0GokNRZ/view?usp=sharing)|[video]|[Recsys 2021](https://dl.acm.org/doi/proceedings/10.1145/3460231)| 14 |
+| Semana  | Paper            | Link slide(s) | Conferencia   | 
+|:--------|:-----------------|:-------------:|:-------------:|
+|13       | Language-Guided Music Recommendation for Video via Prompt Analogies |[slides](#)|[CVPR 2023](http://openaccess.thecvf.com/content/CVPR2023/html/McKee_Language-Guided_Music_Recommendation_for_Video_via_Prompt_Analogies_CVPR_2023_paper.html)|
+|13       | Learning Fine-grained User Interests for Micro-video Recommendation |[slides](#)|[SIGIR 2023](https://doi.org/10.1145/3539618.3591713)|
+|13       | REFINE: A Fine-Grained Medication Recommendation System Using Deep Learning and Personalized Drug Interaction Modeling |[slides](#)|[Neurips 2023](https://papers.nips.cc/paper_files/paper/2023/file/4b7439a4ab0b8e4bcb4e2412c6a10a58-Paper-Conference.pdf)|
+|13       | Guided Recommendation for Model Fine-Tuning |[slides](#)|[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Guided_Recommendation_for_Model_Fine-Tuning_CVPR_2023_paper.html)|
+|14       | Zero-Shot Prompting for Implicit Intent Prediction and Recommendation with Commonsense Reasoning |[slides](#)|[ACL 2023](https://aclanthology.org/2023.findings-acl.17/)|
+|14       | On the Relationship Between Relevance and Conflict in Online Social Link Recommendations |[slides](#)|[Neurips 2023](https://papers.nips.cc/paper_files/paper/2023/file/73d6c3e4b214deebbbf8256e26d2cf45-Paper-Conference.pdf)|
+|14       | Adaptive and Personalized Exercise Generation for Online Language Learning |[slides](#)|[ACL 2023](https://aclanthology.org/2023.acl-long.567/)|
+|14       | Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation |[slides](#)|[ArXiv 2024](https://arxiv.org/abs/2403.09738)|
+|15       | Personalized image generation for color vision deficiency population |[slides](#)|[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Personalized_Image_Generation_for_Color_Vision_Deficiency_Population_ICCV_2023_paper.html)|
+|15       | LightGT: A Light Graph Transformer for Multimedia Recommendation |[slides](#)|[SIGIR 2023](https://dl.acm.org/doi/10.1145/3539618.3591716)|
+|15       | LLM4Vis: Explainable Visualization Recommendation using ChatGPT |[slides](#)|[EMNLP 2023](https://aclanthology.org/2023.emnlp-industry.64/)|
+|15       | Large Language Models are Zero-Shot Rankers for Recommender Systems |[slides](#)|[ECIR 2024](https://arxiv.org/abs/2305.08845)|
+
 <!-- |12       |BRUCE: Bundle Recommendation Using Contextualized item Embeddings|[slides](https://drive.google.com/file/d/1D6ezymM34rJ9Y-Cod197cWjNMxx7pOUO/view?usp=sharing)|[video]|[Recsys 2022](https://dl.acm.org/doi/pdf/10.1145/3523227.3546754)| 6 |
 |12       |Post Processing Recommender Systems with Knowledge Graphs for Recency, Popularity, and Diversity of Explanations|[slides](https://drive.google.com/file/d/1qGOvSLPj6cbNqYye7NhvB2NPR6HWG4ci/view?usp=sharing)|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3532041)| 7 |
 |12       |Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective |[slides](https://drive.google.com/file/d/1j1zZscC4-bzV_dScXNLNBZ7aUlKUAfsE/view?usp=share_link)|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3531714)| 23 |
