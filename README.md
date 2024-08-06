@@ -42,8 +42,8 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci�
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
 
-**Coursera**
-Los contenidos de las semanas 1,2 y 4 los puedes revisar por tu cuenta en este curso de 4 módulos de coursera llamado [Fundamentos de Sistemas de recomendación](https://www.coursera.org/learn/fundamentos-de-sistemas-recomendadores)
+**Coursera** <br/>
+Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este curso de 4 módulos de Coursera llamado [Fundamentos de Sistemas de recomendación](https://www.coursera.org/learn/fundamentos-de-sistemas-recomendadores)
 
 | Semana  | Tema             | link slide(s) | 
 |:--------|:-----------------|:-------------:|
