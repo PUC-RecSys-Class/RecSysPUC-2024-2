@@ -15,6 +15,9 @@ Agosto-Diciembre 2024
 **Horario cátedra**: Martes y Jueves, Módulo 3, sala B24 (11:00 a 12:10).<br/>
 **Horario ayudantía**: Lunes, Módulo 5, sala B23 (14:50 a 16:00).<br/>
 
+**Sitio web lecturas**
+Sitio para ingresar comentarios a lecturas: [Perusall](https://app.perusall.com/join/parra-4ua48)
+
 Programa IIC 3633, 2do Semestre 2024: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
 
 ### AVISOS
@@ -90,26 +93,18 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 
 ### Parte II del curso: seminario
 
-A partir de Junio el curso toma modalidad seminario, los alumnos hacen presentaciones de los siguientes papers (La lista de papers aun no será subida, la actualizaremos y avisaremos cuando corresponda).
+A partir de Noviembre el curso toma modalidad seminario, los alumnos hacen presentaciones de los siguientes papers (La lista de papers aun no será subida, la actualizaremos y avisaremos cuando corresponda).
 
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
 
-
+Ejemplos del semestre 2024-1
 | Semana  | Paper            | Link slide(s) | Conferencia   | 
 |:--------|:-----------------|:-------------:|:-------------:|
 |13       | Language-Guided Music Recommendation for Video via Prompt Analogies |[slides](#)|[CVPR 2023](http://openaccess.thecvf.com/content/CVPR2023/html/McKee_Language-Guided_Music_Recommendation_for_Video_via_Prompt_Analogies_CVPR_2023_paper.html)|
 |13       | Learning Fine-grained User Interests for Micro-video Recommendation |[slides](#)|[SIGIR 2023](https://doi.org/10.1145/3539618.3591713)|
 |13       | REFINE: A Fine-Grained Medication Recommendation System Using Deep Learning and Personalized Drug Interaction Modeling |[slides](#)|[Neurips 2023](https://papers.nips.cc/paper_files/paper/2023/file/4b7439a4ab0b8e4bcb4e2412c6a10a58-Paper-Conference.pdf)|
 |13       | Guided Recommendation for Model Fine-Tuning |[slides](#)|[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Guided_Recommendation_for_Model_Fine-Tuning_CVPR_2023_paper.html)|
-|14       | Zero-Shot Prompting for Implicit Intent Prediction and Recommendation with Commonsense Reasoning |[slides](#)|[ACL 2023](https://aclanthology.org/2023.findings-acl.17/)|
-|14       | On the Relationship Between Relevance and Conflict in Online Social Link Recommendations |[slides](#)|[Neurips 2023](https://papers.nips.cc/paper_files/paper/2023/file/73d6c3e4b214deebbbf8256e26d2cf45-Paper-Conference.pdf)|
-|14       | Adaptive and Personalized Exercise Generation for Online Language Learning |[slides](#)|[ACL 2023](https://aclanthology.org/2023.acl-long.567/)|
-|14       | Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation |[slides](#)|[ArXiv 2024](https://arxiv.org/abs/2403.09738)|
-|15       | Personalized image generation for color vision deficiency population |[slides](#)|[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Personalized_Image_Generation_for_Color_Vision_Deficiency_Population_ICCV_2023_paper.html)|
-|15       | LightGT: A Light Graph Transformer for Multimedia Recommendation |[slides](#)|[SIGIR 2023](https://dl.acm.org/doi/10.1145/3539618.3591716)|
-|15       | LLM4Vis: Explainable Visualization Recommendation using ChatGPT |[slides](#)|[EMNLP 2023](https://aclanthology.org/2023.emnlp-industry.64/)|
-|15       | Large Language Models are Zero-Shot Rankers for Recommender Systems |[slides](#)|[ECIR 2024](https://arxiv.org/abs/2305.08845)|
 
 <!-- |12       |BRUCE: Bundle Recommendation Using Contextualized item Embeddings|[slides](https://drive.google.com/file/d/1D6ezymM34rJ9Y-Cod197cWjNMxx7pOUO/view?usp=sharing)|[video]|[Recsys 2022](https://dl.acm.org/doi/pdf/10.1145/3523227.3546754)| 6 |
 |12       |Post Processing Recommender Systems with Knowledge Graphs for Recency, Popularity, and Diversity of Explanations|[slides](https://drive.google.com/file/d/1qGOvSLPj6cbNqYye7NhvB2NPR6HWG4ci/view?usp=sharing)|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3532041)| 7 |
@@ -132,13 +127,13 @@ L@s estudiantes trabajan en grupo sobre proyectos finales de curso, produciendo 
 
 ### Planificación y Evaluaciones
 
-**MES 1** En las primeras semanas nos enfocaremos en métodos básicos para hacer recomendación usando y prediciendo ratings (filtrado colaborativo User-based & item-based, slope-one). Luego veremos métodos de factorización matricial para ratings y para feedback implícito. En la 3ra semana veremos formas adicionales de evaluar más alla de la métricas de error de predicción de rating (MAE, MSE, RMSE) e incorporaremos métricas para evaluar listas de ítems (precision, recall, MAP, P@n, nDCG). Veremos métodos basados en contenido y sistemas híbridos.
+**MES 1** En las primeras semanas nos enfocaremos en métodos básicos para hacer recomendación usando y prediciendo ratings (filtrado colaborativo User-based & item-based). Luego veremos métodos de factorización matricial para ratings y para feedback implícito. En la 3ra semana veremos formas adicionales de evaluar más alla de la métricas de error de predicción de rating (MAE, MSE, RMSE) e incorporaremos métricas para evaluar listas de ítems (precision, recall, MAP, P@n, nDCG). Veremos métodos basados en contenido y sistemas híbridos.
 
 **MES 2** Métodos basados en contexto, máquinas de factorización y modelos fundamentales de deep learning para recomendación. Recapitulación de las tareas de recomendacion (predecir rating, predecir una lista de items, recomendar una secuencia, recomendación TopN) y de su evaluacion considerando diversidad, novedad, coverage, y otras métricas.
 
-**MES 3** User-centric RecSys, FAT (Fairness, Accountability and Transparency), Aplicaciones de Deep learning para problemas más específicos: recomendación de ropa, multimedia, etc. Modelos profundos generativos para recomendación. Revisaremos problemas de recomendación aún no resueltos en el área.
+**MES 3** Reinforcement Learnin, User-centric RecSys, FAT (Fairness, Accountability and Transparency), Aplicaciones de Deep learning para problemas más específicos: recomendación de ropa, multimedia, etc. Revisaremos problemas de recomendación aún no resueltos en el área.
 
-**MES 4** Principalmente presentaciones de alumnos.
+**MES 4** Principalmente presentaciones de alumnos en modo seminario.
 
 ### Código de Honor
 
@@ -146,16 +141,15 @@ Este curso adscribe el Código de Honor establecido por la Escuela de Ingenierí
 
 ### Evaluaciones
 
-** En proceso de actualizacion** : Detalles de las evaluaciones en [esta presentacion](#) 
+** En proceso de actualizacion** : Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/1d_6YWfC27eKRP8d_waaUllwHjPwl6wEnmObVMf2t8XA/) 
 
-<!-- Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/19U5aaiUR1CE6lttf3lfzspsR37kwERRfn_zJ6m54MwE/edit#slide=id.p).-->
 
 **Tarea 1**
 
 Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanismos de recomendación para predecir ratings y para rankear items en un dataset que se entregará durante clases. Usarán las biblioteca pyreclab, surprise e implicit para los métodos básicos, pero si quieren optar a la nota máxima debe hacer un sistema híbrido o contextual que utilice información de contenido, como texto o imágenes. 
-[enunciado de la tarea 1 - 2024 del curso](https://github.com/denisparra/RecSysPUC-2024/blob/master/tareas/Tarea_1_RecSys_2024.pdf)
+[enunciado de la tarea 1 - 2024](#)
 
-**Lecturasn**
+**Lecturas**
 
 Fecha de revisión de comentarios de lecturas: El post de la semana x, tiene fecha de entrega el lunes a las 22:00 de la semana x+1. Ejemplo: Las lecturas de la semana 1 (clases el 6 y 8 de agosto) se entregan a más tardar el lunes 12 de agosto de 2024 a las 22:00.
 
