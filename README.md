@@ -6,7 +6,9 @@ Marzo-Junio 2024
 
 **Ayudantes**:  
 [Pablo Messina](#), Estudiante de Doctorado, Ciencia de la Computación PUC Chile.  <br/>
-[Carlos Muñoz](#), Estudiante de Doctorado, Ciencia de la Computación PUC Chile.  
+[Carlos Muñoz](#), Estudiante de Doctorado, Ciencia de la Computación PUC Chile.    <br/>
+[Carlos Muñoz](#), Estudiante de Doctorado, Ciencia de la Computación PUC Chile.    <br/>
+[Carlos Muñoz](#), Estudiante de Doctorado, Ciencia de la Computación PUC Chile.    <br/>
  
 **Institución**: Pontificia Universidad Católica de Chile
 
@@ -40,6 +42,9 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci�
 
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
+
+**Coursera**
+Los contenidos de las semanas 1,2 y 4 los puedes revisar por tu cuenta en este curso de 4 módulos de coursera llamado [Fundamentos de Sistemas de recomendación](https://www.coursera.org/learn/fundamentos-de-sistemas-recomendadores)
 
 | Semana  | Tema             | link slide(s) | 
 |:--------|:-----------------|:-------------:|
@@ -151,13 +156,11 @@ Este curso adscribe el Código de Honor establecido por la Escuela de Ingenierí
 Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanismos de recomendación para predecir ratings y para rankear items en un dataset que se entregará durante clases. Usarán las biblioteca pyreclab, surprise e implicit para los métodos básicos, pero si quieren optar a la nota máxima debe hacer un sistema híbrido o contextual que utilice información de contenido, como texto o imágenes. 
 [enunciado de la tarea 1 - 2024 del curso](https://github.com/denisparra/RecSysPUC-2024/blob/master/tareas/Tarea_1_RecSys_2024.pdf)
 
+**Lecturasn**
 
+Fecha de revisión de comentarios de lecturas: El post de la semana x, tiene fecha de entrega el lunes a las 22:00 de la semana x+1. Ejemplo: Las lecturas de la semana 1 (clases el 6 y 8 de agosto) se entregan a más tardar el lunes 12 de agosto de 2024 a las 22:00.
 
-**Lecturas: Blog y Presentación**
-
-Fecha de revisión de comentarios de lecturas: El post de la semana x, tiene fecha de entrega el lunes a las 20:00 de la semana x+1. Ejemplo: Las lecturas de la semana 1 (clases el 9 y 11 de agosto) se entregan a más tardar el lunes 15 de agosto de 2022 a las 20:00.
-
-Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com) con su correo uc. Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias. El codigo de curso para inscribirse es **LLWBU**.
+Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com/join/parra-4ua48) con su correo uc. Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias. El codigo de curso para inscribirse es **PARRA-4UA48**.
 
 Adicionalmente, cada alumno presentará al menos una vez durante el semestre un paper sobre un tópico, con el objetivo de abrir una discusión sobre el tema durante la clase.
 
@@ -167,7 +170,7 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 ## Planificación general (sujeta a actualización)
 
-(actualizada el 24 de abril de 2024)
+(actualizada el 6 de octubre de 2024)
 
 ![image](https://github.com/denisparra/RecSysPUC-2024/assets/208111/9b9462be-0121-4a83-bf09-8d35a0838e1e)
 
@@ -183,7 +186,7 @@ Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.go
 
 Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com) con su correo uc (codigo de curso **LLWBU**). Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias
 
-### Semana 1 (entrega el 18 de Marzo):  
+### Semana 1 (entrega el 12 de agosto):  
 
 **Obligatorias**  
 * Kluver, D., Ekstrand, M. D., & Konstan, J. A. (2018). Rating-based collaborative filtering: algorithms and evaluation. Social information access: Systems and technologies, 344-390.
@@ -196,7 +199,7 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 * [Post original FunkSVD](https://sifter.org/~simon/journal/20061211.html)  
 * Lemire, D., & Maclachlan, A. (2005). Slope One Predictors for Online Rating-Based Collaborative Filtering. In SDM (Vol. 5, pp. 1-5).
 
-### Semana 2 (entrega el 25 de Marzo):
+### Semana 2 (entrega el 19 de Agosto):
 
 **Obligatorias**  
 
@@ -215,7 +218,7 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 * El siguiente paper es opcional, pero permite entender cómo se deriva <a href="https://www.codecogs.com/eqnedit.php?latex=y_i=(X^TC^iX&plus;&space;\lambda&space;I)^{-1}&space;X^TC^ip(i)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y_i=(X^TC^iX&plus;&space;\lambda&space;I)^{-1}&space;X^TC^ip(i)" title="y_i=(X^TC^iX+ \lambda I)^{-1} X^TC^ip(i)" /></a> e <a href="https://www.codecogs.com/eqnedit.php?latex=x_u=(Y^TC^uY&plus;&space;\lambda&space;I)^1&space;Y^TC^up(u)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_u=(Y^TC^uY&plus;&space;\lambda&space;I)^{-1}&space;Y^TC^up(u)" title="x_u=(Y^TC^uY+ \lambda I)^1 Y^TC^up(u)" /></a> del paper de Hu et al.: Takács, G., Pilászy, I., & Tikk, D. (2011). Applications of the conjugate gradient method for implicit feedback collaborative filtering. In Proceedings of the fifth ACM conference on Recommender systems (pp. 297-300). ACM.
 * Verstrepen, K., Bhaduriy, K., Cule, B., & Goethals, B. (2017). Collaborative filtering for binary, positiveonly data. ACM Sigkdd Explorations Newsletter, 19(1), 1-21.
 
-### Semana 3 (entrega el 1 de Abril):
+### Semana 3 (entrega el 26 de Agosto):
 
 **Obligatorias**  
 * Kluver, D., Ekstrand, M. D., & Konstan, J. A. (2018). Rating-based collaborative filtering: algorithms and evaluation. Social information access: Systems and technologies, 344-390.
@@ -229,7 +232,7 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 * Herlocker, J. L., Konstan, J. A., Terveen, L. G., & Riedl, J. T. (2004). Evaluating collaborative filtering recommender systems. ACM Transactions on Information Systems (TOIS), 22(1), 5-53.  
 * Cremonesi, P., Koren, Y., & Turrin, R. (2010). Performance of recommender algorithms on top-n recommendation tasks. In Proceedings of the fourth ACM conference on Recommender systems (pp. 39-46). ACM.  
 
-### Semana 4 (entrega el 05 de Septiembre):
+### Semana 4 (entrega el 03 de Septiembre):
 
 **Obligatorias**  
 * Pazzani, M. J., & Billsus, D. (2007). Content-based recommendation systems. In The adaptive web (pp. 325-341). Springer Berlin Heidelberg. Xu, W., Liu, X., & Gong, Y. (2003).[pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.448.662&rep=rep1&type=pdf)
@@ -240,7 +243,7 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 * Celma, Ò., & Herrera, P. (2008). A new approach to evaluating novel recommendations. In Proceedings of the 2008 ACM conference on Recommender systems (pp. 179-186).
 * Van den Oord, A., Dieleman, S., & Schrauwen, B. (2013). Deep content-based music recommendation. In Advances in neural information processing systems (pp. 2643-2651).
 
-### Semana 5 (entrega el 12 de Septiembre):
+### Semana 5 (entrega el 10 de Septiembre):
 
 **Obligatorias (esta semana se puede elegir una de las dos para entregar*)**  
 * Adomavicius, G., Mobasher, B., Ricci, F. and Tuzhilin, A. (2011). Context-Aware Recommender Systems. AI Magazine, 32(3), 67-80. 
@@ -255,7 +258,6 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 
 **Obligatorias**
 * Hasta la sección 3.4 (incluyendo 3.4) + sección 4: Zhang, S., Yao, L., Sun, A., & Tay, Y. (2019). Deep learning based recommender system: A survey and new perspectives. ACM Computing Surveys (CSUR), 52(1), 1-38.
-
 
 **Sugeridas**
 * Covington, P., Adams, J., & Sargin, E. (2016). Deep neural networks for youtube recommendations. In Proceedings of the 10th ACM conference on recommender systems (pp. 191-198).
