@@ -38,7 +38,18 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci�
 
 **Software**: [Suprise](http://surpriselib.com/), [Implicit](https://github.com/benfred/implicit) y [pyRecLab](https://github.com/gasevi/pyreclab/).
 
-**Contenido**:
+## Planificación general (sujeta a actualización)
+
+(actualizada el 6 de agosto de 2024)
+
+![image](https://github.com/user-attachments/assets/ab3e806b-64b5-40b8-822e-ff2ff5160965)
+
+<!--[Calendario 2024-1](https://github.com/denisparra/RecSysPUC-2024/assets/208111/635a05df-4d4d-4e4d-b06d-2699bcbd19be)-->
+
+<!--[Calendario 2024-1](https://github.com/denisparra/RecSysPUC-2024/assets/208111/a0719944-b266-44b7-b19d-459609314714)-->
+
+<!--[Calendario 2022-2](https://user-images.githubusercontent.com/53876461/183516596-1f981762-93f4-4892-aff2-7818ad5c1ed2.png)-->
+
 
 ## Contenidos por Semana
 
@@ -160,18 +171,6 @@ Adicionalmente, cada alumno presentará al menos una vez durante el semestre un 
 **Proyecto Final** 
 
 Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, la cual desarrollarán durante octubre y noviembre. Enviarán un informe de avance a fines de octubre, para hacer una presentación de su proyecto al final del curso en una sesión de posters.
-
-## Planificación general (sujeta a actualización)
-
-(actualizada el 6 de agosto de 2024)
-
-[Calendario 2024-2](https://github.com/user-attachments/assets/ab3e806b-64b5-40b8-822e-ff2ff5160965)
-
-<!--[Calendario 2024-1](https://github.com/denisparra/RecSysPUC-2024/assets/208111/635a05df-4d4d-4e4d-b06d-2699bcbd19be)-->
-
-<!--[Calendario 2024-1](https://github.com/denisparra/RecSysPUC-2024/assets/208111/a0719944-b266-44b7-b19d-459609314714)-->
-
-<!--[Calendario 2022-2](https://user-images.githubusercontent.com/53876461/183516596-1f981762-93f4-4892-aff2-7818ad5c1ed2.png)-->
 
 ## Lecturas por Semana
 
