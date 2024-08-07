@@ -8,7 +8,7 @@ Agosto-Diciembre 2024
 [Pablo Messina](#), Estudiante de Doctorado, Ciencia de la Computación PUC Chile.  <br/>
 [Carlos Muñoz](#), Estudiante de Doctorado, Ciencia de la Computación PUC Chile.    <br/>
 [Alejandro Plaza](#), Estudiante de Ingeniería, Ciencia de la Computación PUC Chile.    <br/>
-[Daniel Gaete](#), Estudiante de Ingeniería, Ciencia de la Computación PUC Chile.    <br/>
+[Daniel Sebastian](#), Estudiante de Ingeniería, Ciencia de la Computación PUC Chile.    <br/>
  
 **Institución**: Pontificia Universidad Católica de Chile
 
