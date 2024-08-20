@@ -158,8 +158,8 @@ Este curso adscribe el Código de Honor establecido por la Escuela de Ingenierí
 
 **Tarea 1**
 
-Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanismos de recomendación para predecir ratings y para rankear items en un dataset que se entregará durante clases. Usarán las biblioteca pyreclab, surprise e implicit para los métodos básicos, pero si quieren optar a la nota máxima debe hacer un sistema híbrido o contextual que utilice información de contenido, como texto o imágenes. 
-[enunciado de la tarea 1 - 2024](#)
+Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanismos de recomendación para predecir ratings y para rankear items en un dataset que se entregará durante clases. Usarán las biblioteca pyreclab, surprise e implicit para los métodos básicos, pero si quieren optar a la nota máxima debe hacer un sistema híbrido, ensamble o contextual y ganar el bono por competición: 
+[enunciado de la tarea 1 - 2024 2do semestre](./tareas/Tarea_1_RecSys_2024_2_Beers.pdf)
 
 **Lecturas**
 
