@@ -2,4 +2,4 @@
 
 ## Tareas del Curso
 
-Tarea 1 del segundo semestre 2024 es sobre recomendación de cervezas.
+La tarea 1 del segundo semestre 2024 es sobre *Recomendación de Cervezas*. No confundir con el enunciado del semestre anterior.
