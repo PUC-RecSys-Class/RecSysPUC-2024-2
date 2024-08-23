@@ -1,5 +1,5 @@
 # IIC3633 Sistemas Recomendadores
-Agosto-Diciembre 2024.
+Agosto-Diciembre 2024
 
 ### Equipo Docente e Información Administrativa
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
