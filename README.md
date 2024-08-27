@@ -143,7 +143,7 @@ L@s estudiantes trabajan en grupo sobre proyectos finales de curso, produciendo 
 
 **MES 2** Métodos basados en contexto, máquinas de factorización y modelos fundamentales de deep learning para recomendación. Recapitulación de las tareas de recomendacion (predecir rating, predecir una lista de items, recomendar una secuencia, recomendación TopN) y de su evaluacion considerando diversidad, novedad, coverage, y otras métricas.
 
-**MES 3** Reinforcement Learnin, User-centric RecSys, FAT (Fairness, Accountability and Transparency), Aplicaciones de Deep learning para problemas más específicos: recomendación de ropa, multimedia, etc. Revisaremos problemas de recomendación aún no resueltos en el área.
+**MES 3** Reinforcement Learning, User-centric RecSys, FAT (Fairness, Accountability and Transparency), Aplicaciones de Deep learning para problemas más específicos: recomendación de ropa, multimedia, etc. Revisaremos problemas de recomendación aún no resueltos en el área.
 
 **MES 4** Principalmente presentaciones de alumnos en modo seminario.
 
