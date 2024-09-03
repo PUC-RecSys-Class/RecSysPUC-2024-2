@@ -41,9 +41,11 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci�
 
 ## Planificación general (sujeta a actualización)
 
-(actualizada el 6 de agosto de 2024)
+(actualizada el 2 de septiembre de 2024)
 
-![image](https://github.com/user-attachments/assets/ab3e806b-64b5-40b8-822e-ff2ff5160965)
+![image](https://github.com/user-attachments/assets/0e961baf-1e59-44ca-b6c3-1e289ccabfb0)
+
+<!--![image](https://github.com/user-attachments/assets/ab3e806b-64b5-40b8-822e-ff2ff5160965)-->
 
 <!--[Calendario 2024-1](https://github.com/denisparra/RecSysPUC-2024/assets/208111/635a05df-4d4d-4e4d-b06d-2699bcbd19be)-->
 
