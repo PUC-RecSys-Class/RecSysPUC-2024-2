@@ -73,13 +73,13 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 4       | Evaluación: metricas de error y ranking               | [slides](./clases/s4_c1-metricas_v2.pdf)    | [video](https://drive.google.com/file/d/1Rr_-3HF4Bkal_RV1036A9PjwZX-fAcYj/view?usp=sharing)    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
 | 4       | Evaluación II: Cobertura, diversidad, novedad                        | [slides](./clases/s4_c1-metricas_v2.pdf)    | 
 | 4       | Evaluación III: Tests estadísticos                        | [slides](./clases/s4_c2-tests_estadisticos.pdf)     |
-| 5       | Recomendación basada en contenido 1                   | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s5_c1-content-2024.pdf)    | 
-| 5       | Recomendación basada en contenido 2                   | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s5_c2-content.pdf)    | 
-| 6       | Recomendación híbrida                                 | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s6_c1-hibridos.pdf)    | 
-| 6       | Recomendación por ensambles                           | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s6_c2_p3-blending_ensemble.pdf)    |
-| 6       | Recomendación basada en contexto                      | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s6_c1-contexto.pdf)    |
-| 6       | Máquinas de Factorización                             | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s6_c2_p2-FMachines.pdf)    | 
-| 7       | Deep Learning I: Intro                             |  [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s7_c1_deep_learning.pdf)    | 
+| 5       | Recomendación basada en contenido 1                   | [slides](./clases/s5_c1-content-2024.pdf)    | 
+| 5       | Recomendación basada en contenido 2                   | [slides](./clases/s5_c2-content-2024.pdf)    | 
+| 6       | Recomendación híbrida                                 | [slides](./s6_c1-hibridos.pdf)    | 
+| 6       | Recomendación por ensambles                           | [slides](./clases/s6_c2_p3-blending_ensemble.pdf)    |
+| 6       | Recomendación basada en contexto                      | [slides](./clases/s6_c1-contexto.pdf)    |
+| 6       | Máquinas de Factorización                             | [slides](./clases/s6_c2_p2-FMachines.pdf)    | 
+| 7       | Deep Learning I: Intro                             |  [slides](./clases/s7_c1_deep_learning.pdf)    | 
 | 7       | Deep Learning II: Tres proyectos                             |  [slides](https://github.com/denisparra/RecSysPUC-2021/blob/master/clases/s7_c2_deep_learning_s.pdf)    |
 | 7       | **Ideas de proyecto final (2024)**                            |  [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/ideas_proyectos-2024-IIC3633.pdf)    |
 | 8-9       |  Bandits                            | [slides](https://drive.google.com/file/d/1SlDt7UCDrtJBIPUxAMjhqzsjz6uelyIn/view?usp=sharing)    |
