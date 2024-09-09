@@ -77,7 +77,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 4       | Evaluación III: Tests estadísticos                        | [slides](./clases/s4_c2-tests_estadisticos.pdf)     |
 | 5       | Recomendación basada en contenido 1                   | [slides](./clases/s5_c1-content-2024.pdf)    | 
 | 5       | Recomendación basada en contenido 2                   | [slides](./clases/s5_c2-content-2024.pdf)    | 
-| 6       | Recomendación híbrida                                 | [slides](./s6_c1-hibridos.pdf)    | 
+| 6       | Recomendación híbrida                                 | [slides](./clases/s6_c1-hibridos.pdf)    | 
 | 6       | Recomendación por ensambles                           | [slides](./clases/s6_c2_p3-blending_ensemble.pdf)    |
 | 6       | Recomendación basada en contexto                      | [slides](./clases/s6_c1-contexto.pdf)    |
 | 6       | Máquinas de Factorización                             | [slides](./clases/s6_c2_p2-FMachines.pdf)    | 
