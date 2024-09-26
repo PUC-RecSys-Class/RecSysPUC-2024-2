@@ -228,7 +228,25 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 * Herlocker, J. L., Konstan, J. A., Terveen, L. G., & Riedl, J. T. (2004). Evaluating collaborative filtering recommender systems. ACM Transactions on Information Systems (TOIS), 22(1), 5-53.  
 * Cremonesi, P., Koren, Y., & Turrin, R. (2010). Performance of recommender algorithms on top-n recommendation tasks. In Proceedings of the fourth ACM conference on Recommender systems (pp. 39-46). ACM.  
 
-### Semana 4 (entrega el 03 de Septiembre):
+### Semana 4 a 7
+
+Sin lecturas
+
+### Semana 8 (entrega el Lu 30 de Sept)
+
+Xin, X., Karatzoglou, A., Arapakis, I., & Jose, J. M. (2020, July). Self-supervised reinforcement learning for recommender systems. In Proceedings of the 43rd International ACM SIGIR conference on research and development in Information Retrieval (pp. 931-940).
+
+### Semana 9 (entrega el Lu 30 de Sept)
+
+Raghavan, M., Barocas, S., Kleinberg, J., & Levy, K. (2020, January). Mitigating bias in algorithmic hiring: Evaluating claims and practices. In Proceedings of the 2020 conference on fairness, accountability, and transparency (pp. 469-481).
+
+### Semana 10 (entrega el Lu 30 de Sept)
+
+Chang, J., Gao, C., Zheng, Y., Hui, Y., Niu, Y., Song, Y., ... & Li, Y. (2021, July). Sequential recommendation with graph neural networks. In Proceedings of the 44th international ACM SIGIR conference on research and development in information retrieval (pp. 378-387).
+
+## Lecturas complementarias
+
+### Filtrado basado en contenido
 
 **Obligatorias**  
 * Pazzani, M. J., & Billsus, D. (2007). Content-based recommendation systems. In The adaptive web (pp. 325-341). Springer Berlin Heidelberg. Xu, W., Liu, X., & Gong, Y. (2003).[pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.448.662&rep=rep1&type=pdf)
@@ -239,7 +257,7 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 * Celma, Ò., & Herrera, P. (2008). A new approach to evaluating novel recommendations. In Proceedings of the 2008 ACM conference on Recommender systems (pp. 179-186).
 * Van den Oord, A., Dieleman, S., & Schrauwen, B. (2013). Deep content-based music recommendation. In Advances in neural information processing systems (pp. 2643-2651).
 
-### Semana 5 (entrega el 10 de Septiembre):
+### Recomendación sensible al contexto
 
 **Obligatorias (esta semana se puede elegir una de las dos para entregar*)**  
 * Adomavicius, G., Mobasher, B., Ricci, F. and Tuzhilin, A. (2011). Context-Aware Recommender Systems. AI Magazine, 32(3), 67-80. 
@@ -250,7 +268,7 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 * Rendle, S. (2010). Factorization machines. In 2010 IEEE International Conference on Data Mining (pp. 995-1000). IEEE.
 
 
-### Semanas 6 (entrega el 19 de Septiembre):
+### Deep Learning para RecSys
 
 **Obligatorias**
 * Hasta la sección 3.4 (incluyendo 3.4) + sección 4: Zhang, S., Yao, L., Sun, A., & Tay, Y. (2019). Deep learning based recommender system: A survey and new perspectives. ACM Computing Surveys (CSUR), 52(1), 1-38.
@@ -260,7 +278,7 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 * Bansal, T., Belanger, D., & McCallum, A. (2016). Ask the gru: Multi-task learning for deep text recommendations. In Proceedings of the 10th ACM Conference on Recommender Systems (pp. 107-114).
 * He, R., & McAuley, J. (2016). VBPR: visual bayesian personalized ranking from implicit feedback. In Proceedings of the AAAI conference on artificial intelligence (Vol. 30, No. 1).
 
-### Semana 7 (entrega el 26 de Septiembre):
+### Interfaces de Usuario y Sistemas Interactivos para RecSys
 
 **Obligatorias**
 * He, C., Parra, D., & Verbert, K. (2016). Interactive recommender systems: A survey of the state of the art and future research challenges and opportunities. Expert Systems with Applications, 56, 9-27.
@@ -273,7 +291,7 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 * Andjelkovic, I., Parra, D., & O’Donovan, J. (2019). Moodplay: Interactive music recommendation based on Artists’ mood similarity. International Journal of Human-Computer Studies, 121, 142-159.
 
 
-### Semana 8 (entrega el 03 de Octubre):
+### Bandidos Multibrazos
 
 **Obligatorias**
 * Cañamares, R., Redondo, M., & Castells, P. (2019). Multi-armed recommender system bandit ensembles. In Proceedings of the 13th ACM Conference on Recommender Systems (pp. 432-436).
@@ -284,7 +302,7 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 * Guillou, F., Gaudel, R., & Preux, P. (2016). Scalable explore-exploit collaborative filtering. In Pacific Asia Conference On Information Systems (PACIS). Association For Information System.
 * Teo, C. H., Nassif, H., Hill, D., Srinivasan, S., Goodman, M., Mohan, V., & Vishwanathan, S. V. N. (2016). Adaptive, personalized diversity for visual discovery. In Proceedings of the 10th ACM conference on recommender systems (pp. 35-38).
 
-### Semana 9 (entrega el 11 de Octubre):
+### Recomendación secuencial
 
 **Obligatorias**
 * Sun, F., Liu, J., Wu, J., Pei, C., Lin, X., Ou, W., & Jiang, P. (2019). BERT4Rec: Sequential recommendation with bidirectional encoder representations from transformer. In Proceedings of the 28th ACM international conference on information and knowledge management (pp. 1441-1450).
@@ -292,5 +310,7 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 **Sugeridas**
 * Chen, Q., Zhao, H., Li, W., Huang, P., & Ou, W. (2019). Behavior sequence transformer for e-commerce recommendation in alibaba. In Proceedings of the 1st International Workshop on Deep Learning Practice for High-Dimensional Sparse Data (pp. 1-4).
 * Chen, J., Zhang, H., He, X., Nie, L., Liu, W., & Chua, T. S. (2017). Attentive collaborative filtering: Multimedia recommendation with item-and component-level attention. In Proceedings of the 40th International ACM SIGIR conference on Research and Development in Information Retrieval (pp. 335-344).
-* Liang, D., Krishnan, R. G., Hoffman, M. D., & Jebara, T. (2018). Variational autoencoders for collaborative filtering. In Proceedings of the 2018 World Wide Web Conference (pp. 689-698).
+* Liang, D., Krishnan, R. G., Hoffman, M. D., & Jebara, T. (2018). Variational autoencoders for collaborative
+  filtering. In Proceedings of the 2018 World Wide Web Conference (pp. 689-698).
+
 
