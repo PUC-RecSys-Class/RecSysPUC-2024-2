@@ -21,16 +21,12 @@ Sitio para ingresar comentarios a lecturas: [Perusall](https://app.perusall.com/
 Programa IIC 3633, 2do Semestre 2024: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
 
 ### AVISOS
-<!--* (22/04) Ultimas 3 lecturas para Perusall liberadas (revisar en [perusall](https://app.perusall.com/courses/iic3633-2024-i/))
-  ![image](https://github.com/denisparra/RecSysPUC-2024/assets/208111/bfe276d1-72fd-4b16-ac1e-c2ab146ed537)
-* (22/04) Lista de (papers para seminario liberado)(https://uccl0-my.sharepoint.com/:x:/g/personal/carlos_munoz_uc_cl/EVNTSJ4_X9BCtF1cxwFFmg4BzUDjARQ7t_1Ldj3AvH45yw?e=lbZeRa) - elegir hasta el Vi 26/04, propuesta se entrega el Vi 10/05
-* (16/04) Enunciado de [proyectos finales liberado](https://github.com/denisparra/RecSysPUC-2024/blob/master/proyecto/Enunciado_Proyecto_Final_RecSys_2024_1.pdf) -  indicar grupo hasta el Mi 24/04
-* (18/03) Tarea 1 liberada, puedes encontrar el enunciado en [este link](https://github.com/denisparra/RecSysPUC-2024/blob/master/tareas/Tarea_1_RecSys_2024.pdf)-->
-* (06/08) Calendario de actividades del curso actualizado
-* (20/08) [Enunciado de la tarea 1](./tareas/Tarea_1_RecSys_2024_2_Beers.pdf) se encuentra disponible
-* (16/09) El [enunciado del proyecto](./proyecto/Enunciado_Proyecto_Final_RecSys_2024_2.pdf) se encuentra disponible.
-* (30/09) Se encuentra disponible la lista de artículos para inscribir grupos de seminario en [este enlace](https://uccl0-my.sharepoint.com/:x:/r/personal/daniel_sebastian_uc_cl/Documents/RecSys%202024-2/Seminario%20RecSys%202024%20-%202do%20sem%20(editable).xlsx?d=wd370d1dc2392461bbcf3602fcd84e37d&csf=1&web=1&e=Q2Wsm3).
+
 * (04/10) Se encuentra disponible la lista de proyectos para inscribir grupos de proyecto final en [este enlace](https://docs.google.com/spreadsheets/d/1RJHX6kI2GW7kJeIQ8ETCn0HFWUIdFLN3QN-2gWxogrY/edit?usp=sharing).
+* (30/09) Se encuentra disponible la lista de artículos para inscribir grupos de seminario en [este enlace](https://uccl0-my.sharepoint.com/:x:/r/personal/daniel_sebastian_uc_cl/Documents/RecSys%202024-2/Seminario%20RecSys%202024%20-%202do%20sem%20(editable).xlsx?d=wd370d1dc2392461bbcf3602fcd84e37d&csf=1&web=1&e=Q2Wsm3).
+* (16/09) El [enunciado del proyecto](./proyecto/Enunciado_Proyecto_Final_RecSys_2024_2.pdf) se encuentra disponible.
+* (20/08) [Enunciado de la tarea 1](./tareas/Tarea_1_RecSys_2024_2_Beers.pdf) se encuentra disponible
+* (06/08) Calendario de actividades del curso actualizado
 
 ### Descripción del Curso
 
