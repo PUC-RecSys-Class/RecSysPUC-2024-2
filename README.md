@@ -22,6 +22,8 @@ Programa IIC 3633, 2do Semestre 2024: [pdf](https://dparra.sitios.ing.uc.cl/pdfs
 
 ### AVISOS
 
+* (15/10) Se encuentra disponible la agenda de presentaciones de seminario. La rúbrica puedes encontrarla en la [slide 11 de la ppt de evaluaciones](https://docs.google.com/presentation/d/1d_6YWfC27eKRP8d_waaUllwHjPwl6wEnmObVMf2t8XA/edit#slide=id.g2c07278fdc2_1_117) y ejemplos de presentaciones y videos los puedes encontrar en el [repo del curso del 2020](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/).
+* (15/10) Notas de la tarea 1 están publicadas. Revisa el link en ANUNCIOS de Canvas.
 * (04/10) Se encuentra disponible la lista de proyectos para inscribir grupos de proyecto final en [este enlace](https://docs.google.com/spreadsheets/d/1RJHX6kI2GW7kJeIQ8ETCn0HFWUIdFLN3QN-2gWxogrY/edit?usp=sharing).
 * (30/09) Se encuentra disponible la lista de artículos para inscribir grupos de seminario en [este enlace](https://uccl0-my.sharepoint.com/:x:/r/personal/daniel_sebastian_uc_cl/Documents/RecSys%202024-2/Seminario%20RecSys%202024%20-%202do%20sem%20(editable).xlsx?d=wd370d1dc2392461bbcf3602fcd84e37d&csf=1&web=1&e=Q2Wsm3).
 * (16/09) El [enunciado del proyecto](./proyecto/Enunciado_Proyecto_Final_RecSys_2024_2.pdf) se encuentra disponible.
