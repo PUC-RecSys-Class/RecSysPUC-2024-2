@@ -117,25 +117,28 @@ A partir de Noviembre el curso toma modalidad seminario, los alumnos hacen prese
 Ejemplos del semestre 2024-1
 | Semana  | Paper            | Link slide(s) | Conferencia   | 
 |:--------|:-----------------|:-------------:|:-------------:|
-|13       | Language-Guided Music Recommendation for Video via Prompt Analogies |[slides](#)|[CVPR 2023](http://openaccess.thecvf.com/content/CVPR2023/html/McKee_Language-Guided_Music_Recommendation_for_Video_via_Prompt_Analogies_CVPR_2023_paper.html)|
-|13       | Learning Fine-grained User Interests for Micro-video Recommendation |[slides](#)|[SIGIR 2023](https://doi.org/10.1145/3539618.3591713)|
-|13       | REFINE: A Fine-Grained Medication Recommendation System Using Deep Learning and Personalized Drug Interaction Modeling |[slides](#)|[Neurips 2023](https://papers.nips.cc/paper_files/paper/2023/file/4b7439a4ab0b8e4bcb4e2412c6a10a58-Paper-Conference.pdf)|
-|13       | Guided Recommendation for Model Fine-Tuning |[slides](#)|[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Guided_Recommendation_for_Model_Fine-Tuning_CVPR_2023_paper.html)|
-
-<!-- |12       |BRUCE: Bundle Recommendation Using Contextualized item Embeddings|[slides](https://drive.google.com/file/d/1D6ezymM34rJ9Y-Cod197cWjNMxx7pOUO/view?usp=sharing)|[video]|[Recsys 2022](https://dl.acm.org/doi/pdf/10.1145/3523227.3546754)| 6 |
-|12       |Post Processing Recommender Systems with Knowledge Graphs for Recency, Popularity, and Diversity of Explanations|[slides](https://drive.google.com/file/d/1qGOvSLPj6cbNqYye7NhvB2NPR6HWG4ci/view?usp=sharing)|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3532041)| 7 |
-|12       |Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective |[slides](https://drive.google.com/file/d/1j1zZscC4-bzV_dScXNLNBZ7aUlKUAfsE/view?usp=share_link)|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3531714)| 23 |
-|12       |Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher|[slides](https://drive.google.com/file/d/1pQsQgO9Y8nqZ2wvWqaQ3JL_qYwwkJq_q/view?usp=share_link)|[video]|[Recsys 2021](https://dl.acm.org/doi/abs/10.1145/3460231.3474273)| 16 |
-|13       |Choosing the Best of Both Worlds: Diverse and Novel Recommendations through Multi-Objective Reinforcement Learning|[slides](https://drive.google.com/file/d/1H64JOe66oSOWiHz1G2GThktOAN-XyKcx/view?usp=share_link)|[video](https://drive.google.com/file/d/1AD06C39iliUDRqAr3aXMFuWuNeQIGpL3/view?usp=share_link)|[WSDM 2022](https://dl.acm.org/doi/10.1145/3488560.3498471)| 19 |
-|13       |Reducing Cross-Topic Political Homogenization in Content-Based News Recommendation|[slides](https://drive.google.com/file/d/1vg5Sx8S5hwX5OzyWm2iX9C3ttxP6q2ax/view?usp=share_link)|[video]|[Recsys 2021](https://dl.acm.org/doi/10.1145/3523227.3546782)| 34 |
-|13       |Price DOES Matter!: Modeling Price and Interest Preferences in Session-based Recommendation|[slides](https://drive.google.com/file/d/1Isyqh4CC7Z7dB8uJWyQI7Ele-L5aR63V/view?usp=share_link)|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3532043)| 18 |
-|14       |CAPTOR: A Crowd-Aware Pre-Travel Recommender System for Out-of-Town Users|[slides](https://drive.google.com/file/d/1_ySpuzbrDaEoX9Lyp_-eZDxep0McLO3F/view?usp=share_link)|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3531949)| 15 |
-|14       |Thinking inside The Box: Learning Hypercube Representations for Group Recommendation|[slides](https://drive.google.com/file/d/1gqZL5-pjKKjIT2XqzoLytJBBc5zUDPN6/view?usp=share_link)|[video](https://drive.google.com/file/d/195KRiq6JprUv9AOJ_zX3Fd1cafpc8hmm/view?usp=share_link)|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3532066)| 9 |
-|14       |Single-shot Embedding Dimension Search in Recommender System|[slides](https://drive.google.com/file/d/1lEoH0vN7HlUzSiybQyu7wKyYN697VE0V/view?usp=share_link)|[video](https://drive.google.com/file/d/19VZVsPlJ0GcdqqPiXP_sv7ebOVMukGeY/view?usp=share_link)|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3532060)| 13 |
-|14       |The Dual Echo Chamber: Modeling Social Media Polarization for Interventional Recommending|[slides](https://drive.google.com/file/d/1vY-0nPJYPe6nczZKsHLMKxLPZaW57bSo/view?usp=share_link)|[video](https://drive.google.com/file/d/1X_ITTXqODD1729QA79YOXH0402NbXsE4/view?usp=share_link)|[Recsys 2021](https://dl.acm.org/doi/10.1145/3460231.3474261)| 1 |
-|14       |S-Walk: Accurate and Scalable Session-based Recommendation with Random Walks|[slides](https://drive.google.com/file/d/1PhgTWz6mLS3SBY3DHd5xZXBtn3kh23sW/view?usp=share_link)|[video](https://drive.google.com/file/d/1Hh5EAlEHvpH6atB2ljSRIzN2wZbAfxJA/view?usp=share_link)|[WSDM 2022](https://dl.acm.org/doi/10.1145/3488560.3498464)| 28 |
-|14       |A User-Centered Investigation of Personal Music Tours|[slides](https://drive.google.com/file/d/1acjxQRN3XQKa4nj9wDMsZ5l5aBQjHgM2/view?usp=share_link)|[video](https://drive.google.com/file/d/10p9eKHEBAexG_Od1Wb2CWeNl0bG1wzE2/view?usp=share_link)|[RecSys 2022](https://dl.acm.org/doi/10.1145/3523227.3546776)| 30 |
--->
+|12       | Automatic Music Playlist Generation via Simulation-based Reinforcement Learning |[slides](#)|[KDD 2023](https://dl.acm.org/doi/abs/10.1145/3580305.3599777?casa_token=ptaV5RuxcIUAAAAA:tySNFXtUgxyVvw4YpYzlmvl9r6iqDnFzbuD5GJC_XOKF6pHuRLsiSkC16jyfwwtLTOD8EeB9iXJsA1w)|
+|12       | Pearl: A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset |[slides](#)|[ACL 2024 Findings](https://aclanthology.org/2024.findings-acl.65.pdf)|
+|12       | Adaptive and Personalized Exercise Generation for Online Language Learning |[slides](#)|[ACL 2023](https://aclanthology.org/2023.acl-long.567.pdf)|
+|12       | ResAct: Reinforcing Long-term Engagement in Sequential Recommendation with Residual Actor |[slides](#)|[ICLR 2023](https://openreview.net/pdf?id=HmPOzJQhbwg)|
+|13       | Aligning Large Language Models for Controllable Recommendations |[slides](#)|[ACL 2024](https://aclanthology.org/2024.acl-long.443.pdf)|
+|13       | KuaiSim: A Comprehensive Simulator for Recommender Systems |[slides](#)|[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/8c7f8f98f9a8f5650922dd4545254f28-Paper-Datasets_and_Benchmarks.pdf)|
+|14       | Text-like Encoding of Collaborative Information in Large Language Models for Recommendation |[slides](#)|[ACL 2024](https://aclanthology.org/2024.acl-long.497.pdf)|
+|14       | Debiased, Longitudinal and Coordinated Drug Recommendation through Multi-Visit Clinic Records |[slides](#)|[NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/file/b295b3a940706f431076c86b78907757-Paper-Conference.pdf)|
+|14       | Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers |[slides](#)|[ACL 2024](https://aclanthology.org/2024.acl-long.295.pdf)|
+|14       | Leveraging LLM Reasoning Enhances Personalized Recommender Systems |[slides](#)|[ACL 2024](https://aclanthology.org/2024.findings-acl.780.pdf)|
+|15       | SSLRec: A Self-Supervised Learning Framework for Recommendation |[slides](#)|[WSDM 2024](https://dl.acm.org/doi/abs/10.1145/3616855.3635814?casa_token=fxpTzRzyhWIAAAAA:WOfs3PGTMAmzO2ehkL1_3JwFOqYbAx4XOLXWg0k6wMBtt7yX9n_MdPDHcQ8sPohJh95dg095qQTElC8)|
+|15       | Transparent and Scrutable Recommendations Using Natural Language User Profiles |[slides](#)|[ACL 2024](https://aclanthology.org/2024.acl-long.753.pdf)|
+|15       | DataFinder: Scientific Dataset Recommendation from Natural Language Descriptions |[slides](#)|[ACL 2023](https://aclanthology.org/2023.acl-long.573.pdf)|
+|15       | Exploring Scenarios of Uncertainty about the Users' Preferences in Interactive Recommendation Systems |[slides](#)|[SIGIR 2023](https://dl.acm.org/doi/abs/10.1145/3539618.3591684?casa_token=Rznc0culgZ0AAAAA:6Q9Zal6ix-AdTVx7IZYMaqqiqgnlfA0jTLrO1CjyIJd2XseicYq7MBawRiPguz1ZodP51-jCA19O0Xc)|
+|16       | LightGCL: Simple yet effective graph contrastive learning for recommendation |[slides](#)|[ICLR 2023](https://openreview.net/pdf?id=FKXVK9dyMM)|
+|16       | On the Embedding Collapse When Scaling Up Recommendation Models |[slides](#)|[ICML 2024](https://openreview.net/pdf?id=aPVwOAr1aW)|
+|16       | Recommender Systems with Generative Retrieval |[slides](#)|[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/20dcab0f14046a5c6b02b61da9f13229-Paper-Conference.pdf)|
+|16       | Learning Fine-grained User Interests for Micro-video Recommendation |[slides](#)|[SIGIR 2023](https://dl.acm.org/doi/abs/10.1145/3539618.359171)|
+|17       | Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation |[slides](#)|[ICLR 2024](https://openreview.net/pdf?id=lsxeNvYqCj)|
+|17       | Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations |[slides](#)|[ICML 2024](https://openreview.net/pdf?id=xye7iNsgXn)|
+|17       | Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models |[slides](#)|[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.621.pdf)|
+|17       | Measuring the benefit of increased transparency and control in news recommendation |[slides](#)|[AAAI 2024](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aaai.12171)|
 
 ### Parte III del curso: Proyectos finales
 
