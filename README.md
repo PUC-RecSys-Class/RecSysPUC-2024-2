@@ -109,7 +109,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 
 ### Parte II del curso: seminario
 
-A partir de Noviembre el curso toma modalidad seminario, los alumnos hacen presentaciones de los siguientes papers (La lista de papers aun no será subida, la actualizaremos y avisaremos cuando corresponda).
+A partir de Octubre el curso toma modalidad seminario, los alumnos hacen presentaciones de los siguientes papers:
 
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
