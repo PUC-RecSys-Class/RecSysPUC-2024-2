@@ -114,7 +114,6 @@ A partir de Octubre el curso toma modalidad seminario, los alumnos hacen present
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
 
-Ejemplos del semestre 2024-1
 | Semana  | Paper            | Link slide(s) | Conferencia   | 
 |:--------|:-----------------|:-------------:|:-------------:|
 |12       | Automatic Music Playlist Generation via Simulation-based Reinforcement Learning |[slides](#)|[KDD 2023](https://dl.acm.org/doi/abs/10.1145/3580305.3599777?casa_token=ptaV5RuxcIUAAAAA:tySNFXtUgxyVvw4YpYzlmvl9r6iqDnFzbuD5GJC_XOKF6pHuRLsiSkC16jyfwwtLTOD8EeB9iXJsA1w)|
