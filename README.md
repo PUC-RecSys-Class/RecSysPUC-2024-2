@@ -107,19 +107,19 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 12       | Aprendizaje Profundo para RecSys (Imágenes, Transformer, Grafos)                                    |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s12_c1_deep_learning_s.pdf)       |  [video1](https://drive.google.com/file/d/11aUkSvabuHZMevDd4yP0dBTrc3_2eNtV/view?usp=sharing)  [video2](https://drive.google.com/file/d/1LJ6jI3gHPqS45Olv-Iu29W5DunO8ZbF6/view?usp=sharing)      |                   |
 | 12       | 10 problemas en Sistemas de Recomendación                                     |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s12_c2_10bigproblems-recsys-small.pdf)       |  [video](https://drive.google.com/file/d/1DtyzGOfMZY8UE223SMM2ROczH_qHhkNc/view?usp=sharing)        | | -->
 
-### Parte II del curso: seminario
+### Parte II del curso: Seminario
 
 A partir de Octubre el curso toma modalidad seminario, los alumnos hacen presentaciones de los siguientes papers:
 
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
 
-| Semana  | Paper            | Link slide(s) | Conferencia   | 
-|:--------|:-----------------|:-------------:|:-------------:|
-|12       | Automatic Music Playlist Generation via Simulation-based Reinforcement Learning |[slides](#)|[KDD 2023](https://dl.acm.org/doi/abs/10.1145/3580305.3599777?casa_token=ptaV5RuxcIUAAAAA:tySNFXtUgxyVvw4YpYzlmvl9r6iqDnFzbuD5GJC_XOKF6pHuRLsiSkC16jyfwwtLTOD8EeB9iXJsA1w)|
-|12       | Pearl: A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset |[slides](#)|[ACL 2024 Findings](https://aclanthology.org/2024.findings-acl.65.pdf)|
-|12       | Adaptive and Personalized Exercise Generation for Online Language Learning |[slides](#)|[ACL 2023](https://aclanthology.org/2023.acl-long.567.pdf)|
-|12       | ResAct: Reinforcing Long-term Engagement in Sequential Recommendation with Residual Actor |[slides](#)|[ICLR 2023](https://openreview.net/pdf?id=HmPOzJQhbwg)|
+| Semana  | Paper            | Link slide(s) | Conferencia   | Presentación  |
+|:--------|:-----------------|:-------------:|:-------------:|:-------------:|
+|12       | Automatic Music Playlist Generation via Simulation-based Reinforcement Learning |[slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/seminarios/Spotify_ppt.pdf)|[KDD 2023](https://dl.acm.org/doi/abs/10.1145/3580305.3599777?casa_token=ptaV5RuxcIUAAAAA:tySNFXtUgxyVvw4YpYzlmvl9r6iqDnFzbuD5GJC_XOKF6pHuRLsiSkC16jyfwwtLTOD8EeB9iXJsA1w)|-|
+|12       | Pearl: A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset |[slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/seminarios/Diapos_PEARL.pdf)|[ACL 2024 Findings](https://aclanthology.org/2024.findings-acl.65.pdf)|[Video](https://uccl0-my.sharepoint.com/:v:/g/personal/aplaza2_uc_cl/ESJnkyzZStVAm-gKO8PXw3YBLhNwhmaCUEpBn0-uhJV_2g?e=5ygspd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
+|12       | Adaptive and Personalized Exercise Generation for Online Language Learning |[slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/seminarios/Adaptative_for_OLL.pdf)|[ACL 2023](https://aclanthology.org/2023.acl-long.567.pdf)|[Video](https://uccl0-my.sharepoint.com/:v:/g/personal/aplaza2_uc_cl/EYwyka9v8qpLjHl8Zrzu54oBpfnxK-qsr4mrj6NzxG5LqA?e=fe8epP)|
+|12       | ResAct: Reinforcing Long-term Engagement in Sequential Recommendation with Residual Actor |[slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/seminarios/ResAct.pdf)|[ICLR 2023](https://openreview.net/pdf?id=HmPOzJQhbwg)|[Video](https://uccl0-my.sharepoint.com/:v:/g/personal/aplaza2_uc_cl/EXUlRY6-sShKhYtHiQgKnOYByPHqf_K1tCJCED8asqSqgQ?e=DA9biS)|
 |13       | Aligning Large Language Models for Controllable Recommendations |[slides](#)|[ACL 2024](https://aclanthology.org/2024.acl-long.443.pdf)|
 |13       | KuaiSim: A Comprehensive Simulator for Recommender Systems |[slides](#)|[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/8c7f8f98f9a8f5650922dd4545254f28-Paper-Datasets_and_Benchmarks.pdf)|
 |14       | Text-like Encoding of Collaborative Information in Large Language Models for Recommendation |[slides](#)|[ACL 2024](https://aclanthology.org/2024.acl-long.497.pdf)|
